@@ -1,45 +1,35 @@
 # Holy Healers
 
-Holy healers provide direct stabilization and burst recovery when the zerg takes sharp damage.
-
-Holy is not "the only healer that matters." In this project, Holy is part of a **Holy + Nature healer package**.
+Holy healers stabilize sharp damage and save players who make the zerg function.
 
 ## Purpose
 
-Holy keeps the endangered area alive long enough for the zerg to stabilize, counter, or finish a movement call.
+Holy healing is often the direct recovery layer when enemy damage lands hard.
 
 The job is not simply to stand far away and keep party frames green. The job is to heal the people making the call possible.
 
-Holy value includes both emergency clump healing and targeted saving. Clumps often receive many AoE heals; a single-target save on a low tank, caller, or exposed support can be the difference between stabilizing and losing the fight.
+Holy value includes emergency clump healing and targeted saving. Clumps often receive many AoE heals; a single-target save on a low tank, caller, or exposed support can be the difference between stabilizing and losing the fight.
 
 ## Where you stand
 
-Good Holy positioning usually means:
+Holy healers must be close enough to reach the real danger area.
 
-- behind the frontline, but not a screen behind the fight
-- close enough to reach tanks/supports holding the danger area
-- spread from other healers so one bomb does not remove the healing layer
-- aware of doors, chokes, walls, and retreat routes
-- close enough to move with the planned route before damage lands
+The danger area is not always the safest group of friendly players. It is the group the enemy is about to hit, the players crossing a choke, the tanks holding a front, or the people trapped near terrain.
 
 ## What you watch
 
-- enemy engage path
-- friendly tanks and supports holding that path
-- the next choke, door, or corner
-- players who are late through a dangerous route
-- whether Nature zones and defensive supports cover the same danger area
+- enemy bomb direction
+- friendly tanks/frontline
+- players crossing terrain
+- caller movement
+- your own escape path
+- Nature zones and defensive layers
 
 ## During enemy engage
 
-When enemy damage lands, identify the center of danger.
+Use healing where damage is actually landing or about to land.
 
-Examples:
-
-- If the door is bombed, the door needs healing.
-- If tanks are holding a choke, the tank line needs healing.
-- If the zerg is kiting as a unit, the back of the unit may need healing.
-- If a defensive zone is placed, players inside it become high-value healing targets because layered defense multiplies value.
+Do not waste major healing on safe space while the front or choke dies.
 
 ## Between engages
 

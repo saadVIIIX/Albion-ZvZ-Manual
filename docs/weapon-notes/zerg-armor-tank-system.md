@@ -1,101 +1,65 @@
-# Zerg Armor: Tank Layer System
+# Tank and CC Tool Families
 
-Episode 9 frames tanks as the zerg's armor.
+Tank tools should be judged by what problem they solve for the zerg.
 
-The key correction is that tanks are not one generic frontline. They are layers with different timing, positioning, survivability, and movement jobs.
+The goal is not to memorize a rigid formation. The goal is to understand what kind of pressure a tank or CC tool creates or prevents.
 
-## Four tank families
+## Main tank/control families
 
-| Tank family | Main job | Core mistake to avoid |
+| Family | Main job | Common mistake |
 |---|---|---|
-| Clump tank | create/hold the clump for allied damage | clumping late or telegraphing every engage |
-| Disengage tank | stagger enemy engage timing and buy survival time | trying to hard-stop everything instead of consistently delaying |
-| Kite tank | stagger enemy movement before the engage reaches the zerg | playing like a disengage tank and arriving too late |
-| Scout tank | gather information and delay threats when necessary | feeding far away from what the zerg can punish |
+| Engage / clump control | create or hold a target area for allied damage | arriving after DPS needs to cast |
+| Stopper / disengage control | delay enemy entry and break enemy timing | reacting only after damage lands |
+| Kite / route control | slow enemy movement and protect rotations | standing so far forward the zerg cannot punish pressure on you |
+| Scout / information pressure | see danger early and delay sudden threats | feeding away from useful follow-up |
 
-## Layer order
+## Engage / clump control
 
-A useful defensive mental model:
+Engage tools create the window where allied DPS and support utility can land together.
 
-```text
-Scout → Kite tank → Disengage tank → Caller / danger area → Clump tanks / main body
-```
+Good habits:
 
-The point is not that every fight has a perfect line. The point is that each tank layer should interact with the enemy at a different distance and timing.
-
-## Clump tank notes
-
-Clump tanks are responsible for creating or reinforcing enemy clumps and limiting mobility long enough for allied DPS to hit.
-
-Common tools discussed:
-
-- Hand of Justice
-- 1h Mace
-- Camlann
-- Morning Star, with a viability warning
-- Judicator Helmet, Hood of Tenacity, Knight Helmet, and situational safety tools
-- Guardian Armor, Judicator Armor, and situational Demon Armor
-- Graveguard Boots, Boots of Valor, Judicator Boots, Mercenary Shoes, Mage Sandals, and other mobility/CC options
-
-Key habits:
-
-- do not telegraph every engage
 - plan the clump before the call
-- include high-value targets if possible
-- engage before DPS needs to cast, not after the countdown has ended
+- avoid telegraphing every engage
+- be in position before DPS must cast
+- hold the enemy long enough for damage to matter
 
-## Disengage tank notes
+## Stopper / disengage control
 
-Disengage tanks are not expected to stop every enemy ability. Their reliable job is to stagger the enemy engage so damage lands in waves rather than all at once.
+Stopper tools protect the zerg by interrupting, delaying, or splitting enemy pressure.
 
-Common tools discussed:
+Good habits:
 
-- Grovekeeper
-- Heavy Mace
-- Bedrock Mace
-- Judicator Helmet
-- Hellion Hood
-- Knight Armor, Guardian Armor, Duskweaver Armor, Judicator Armor, Armor of Valor
-- Graveguard Boots, Boots of Valor, Guardian Boots, Mercenary Shoes
+- read the enemy path before damage lands
+- hold walls, doors, bridges, and side angles
+- stop the real threat, not the closest random player
+- stay close enough that pressure on you can be punished
 
-Key habits:
+## Kite / route control
 
-- play flanks, not center mass
-- predict enemy engages yourself
-- act early enough to stagger the incoming damage
-- stay close enough that enemy damage on you can be punished by the zerg
-- do not bait yourself far away when the enemy was not threatening the zerg
+Kite and route-control tools buy time for the zerg to move as a unit.
 
-## Kite tank notes
+Good habits:
 
-Kite tanks stagger enemy movement before the enemy engage reaches the danger area.
+- slow the enemy before they reach the danger area
+- protect the route the zerg is actually taking
+- avoid separating so far that healers and DPS cannot support you
 
-Common tools discussed:
+## Scout / information pressure
 
-- Grailseeker
-- Bedrock
-- Grovekeeper
-- Icicle as a kite/support tool, not a tank if it lacks tank durability
+A scout or information tank is valuable when it changes the caller's next decision.
 
-Key habits:
+Good reports answer:
 
-- value speed and mobility
-- operate farther forward than disengage tanks
-- disrupt enemy rotations and approach paths
-- buy time for disengage tanks to perform the final delay layer
+- where the enemy is
+- how many are moving
+- which route they are taking
+- whether a flank or bomb squad is forming
+- whether the threat is immediate or delayed
 
-## Scout tank notes
+## Related pages
 
-Scout tanks need mobility and enough survivability to live through modern scout-killing behavior.
-
-Scout value is not only information. A scout can also delay a flank or sudden threat long enough for the zerg to react.
-
-## Public-manual impact
-
-This page should feed:
-
-- tank role pages
-- positioning pages
-- defensive layering
-- weapon notes
-- training drills for tanks
+- [Engage Tanks](../roles/engage-tanks.md)
+- [Stopper Tanks](../roles/stopper-tanks.md)
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)

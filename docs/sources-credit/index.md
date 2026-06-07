@@ -1,16 +1,16 @@
 # Sources and Credit
 
-The Albion ZvZ Manual is a teaching project first. Its purpose is to help Albion players learn practical ZvZ behavior: role responsibility, movement, positioning, pressure, defensive timing, terrain use, and review habits.
+The Albion ZvZ Manual is a public teaching guide for large-scale Albion warfare. Its purpose is to help players understand role responsibility, positioning, pressure, defensive timing, terrain, and review habits.
 
 ## Core credit
 
-Core educational credit for the AO University doctrine belongs to **Khelron** and **AO University**.
+Core educational credit belongs to **Khelron** and **AO University**. Their public teaching is a major foundation for this manual.
 
-This project does not claim ownership of Khelron's teachings. It organizes and applies those lessons into a public manual and Formation Ledger companion for the wider Albion community.
+This site organizes those lessons into a public reader path and connects them to practical training tools such as the Formation Ledger.
 
-## How to read examples
+## How examples should be read
 
-Weapon, role, and fight examples are used to teach functions:
+Weapon and item names are teaching examples. They are included because they show a useful function, such as:
 
 - area denial
 - stop pressure
@@ -19,14 +19,14 @@ Weapon, role, and fight examples are used to teach functions:
 - healing coverage
 - utility layering
 - mobility support
-- purge, pierce, anti-heal, and disruption windows
+- purge, pierce, anti-heal, or disruption windows
 
-Unless a page explicitly says otherwise, examples are not universal current-meta recommendations.
+Unless a page clearly says otherwise, examples are not universal current-meta recommendations.
 
-## Privacy and attribution
+## Privacy rule
 
-Some practical lessons are generalized from review material. Private player names, private guild criticism, unlisted VOD identifiers, and screenshots with names should not be published in the manual.
+Private or unlisted review material should become anonymous teaching patterns. Do not publish private player names, guild criticism, unlisted VOD identifiers, or screenshots with names.
 
-## Current mechanics
+## Mechanics note
 
-Albion changes over time. When exact values, cooldowns, item behavior, or current strength claims matter, verify them through current Albion sources such as the Albion Wiki, official patch notes, or balance-change posts.
+Albion changes over time. Exact values, cooldowns, item behavior, and current strength claims should be checked against current Albion sources before being treated as build advice.

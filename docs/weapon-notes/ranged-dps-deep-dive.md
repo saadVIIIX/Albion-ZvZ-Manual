@@ -1,97 +1,55 @@
-# Ranged DPS Deep Dive
+# Ranged DPS Tool Notes
 
-Episode 15 focuses on ranged DPS.
+Ranged DPS tools should be judged by more than their biggest E button.
 
-The central lesson is that ranged DPS is not E-only gameplay. Ranged DPS must create Q/W pressure, hold useful angles, punish enemy movement, and help control friendly backline space.
+## What ranged tools should create
 
-## Weapons discussed
+- damage during the engage window
+- Q/W pressure between windows
+- safe angle pressure
+- punishment on small clumps and low targets
+- control of friendly backline space
+- pressure that forces enemy movement or defensives
 
-| Weapon | Main public lesson |
-|---|---|
-| Brimstone / Fire | single-target Q pressure and Firewall are part of the weapon's value |
-| Longbow | low E cooldown matters, but positioning and standtime discipline decide value |
-| Siege Bow | large, fast, high-impact ranged damage; exact meta status remains patch-sensitive |
+## Fire-style lessons
 
-## Brimstone / Fire logic
-
-The role lesson emphasizes that Brimstone-style value is not only the big E.
+Fire-style tools are useful examples because they can combine damage with area denial.
 
 Useful lessons:
 
-- single-target Q helps establish pressure and front control
-- fire stacks/soft pressure matter
-- Firewall is one of the strongest W tools because it denies movement and protects space
-- ranged DPS should keep playing between engages
+- single-target pressure can matter even in large fights
+- Firewall-style tools teach path control and defensive space denial
+- the whole kit matters, not only one burst button
 
-Public-manual framing:
+## Bow-style lessons
 
-> Fire is an example of a ranged DPS weapon whose utility comes from the whole kit, not just one burst button.
+Bow-style ranged tools often teach frequent pressure and standtime discipline.
 
-## Longbow logic
+Useful lessons:
 
-Longbow's strength comes from:
+- low-cooldown damage only matters if the player can safely keep using it
+- small clumps are worth punishing
+- standing still too long can turn pressure into a death
 
-- low E cooldown
-- frequent conversion windows
-- ability to punish small clumps, not only perfect clumps
-- Q/autos between E casts when safe
+## Siege-style lessons
 
-Common mistakes:
+Large-area ranged tools teach timing, escalation awareness, and fast punishment of clumps.
 
-- standing still too long for autos
-- waiting for a perfect clump
-- being late to the damage window
-- playing so far away that Q/W/autos disappear from the fight
+Useful lessons:
 
-## Siege Bow logic
-
-Siege Bow is emphasized as a strong ranged damage tool because it can:
-
-- hit fast
-- cover a large area
-- punish clumps and escalation situations
-- use Q/W pressure better than many melee burst weapons
-
-Caution:
-
-- exact meta status and ability values are patch-sensitive
-- public pages should explain why the weapon has value rather than claiming it is permanently mandatory
-
-## Positioning doctrine
-
-Ranged-DPS doctrine warns ranged DPS not to blindly follow the caller like a train.
-
-Ranged DPS should read:
-
-- enemy name tags
-- overextensions
-- backing movement
-- small clumps
-- enemy pressure on friendly backline
-- whether the enemy is actually punishable now
-
-## Backline-space responsibility
-
-Ranged DPS should help control friendly backline space. That does not mean standing in the back doing nothing.
-
-It means:
-
-- Q/W pressure enemies who enter friendly space
-- keep dangerous enemies from walking for free
-- punish overextensions
-- defend the zerg's working area without clumping inside it
+- area damage should land while targets are still held or moving predictably
+- exact current strength should be verified before making build claims
+- the public lesson is function, not permanent meta status
 
 ## Review questions
 
-- Did the ranged DPS create Q/W pressure between E casts?
-- Did they take a useful angle instead of standing with the whole zerg?
-- Did they hit real small clumps when perfect clumps were unavailable?
-- Did they avoid excessive standtime?
-- Did they help control friendly backline space?
+- Did the ranged DPS create pressure between major cooldowns?
+- Did they hit the real clump or only the called direction?
+- Did they stay close enough to help the counter?
+- Did they keep safe spacing while still contributing?
 
 ## Related pages
 
 - [Ranged DPS](../roles/ranged-dps.md)
-- [DPS Overview](../roles/dps-overview.md)
+- [DPS Timing](../fight-concepts/dps-timing.md)
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
-- [Pressure Types](../fight-concepts/pressure-types.md)

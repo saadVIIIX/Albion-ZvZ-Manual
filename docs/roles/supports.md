@@ -51,31 +51,27 @@ If the zerg is crossing a choke, support the players still exposed.
 
 ## Timing
 
-A defensive support cooldown that lands late may look impressive but fail to save anyone. A defensive support cooldown on safe space may be worse than holding it.
+Support tools should land before or during real pressure.
 
-Supports should not be purely reactive. Read enemy movement, side angles, bomb squads, and off-cooldown engage threats before the damage lands.
+A perfect defensive after the enemy damage is finished is often just decoration.
 
 ## Common failures
 
-- following the caller's body instead of the enemy threat
-- protecting safe backline while front dies
-- using major cooldowns with no real pressure
-- leaving tanks/chokes too early
-- standing too far to affect melee-range support value
-- overlapping defensive layers without purpose
+- saving cooldowns until after damage lands
+- following the caller while ignoring enemy center mass
+- placing defensives on safe backline instead of endangered front
+- using Locus or major support tools into no real pressure
+- standing inside the clump they were supposed to save
 
 ## Practice drill
 
-For each enemy engage, mark:
+Pause before enemy engage. Ask:
 
-1. where enemy damage landed
-2. where support tools landed
-3. whether they overlapped the danger area
-4. whether any tool was early, late, or misplaced
+> Which group is about to become the danger area, and can the support reach it before damage lands?
 
 ## Related pages
 
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
-- [Stopper Tanks](stopper-tanks.md)
-- [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
+- [Support DPS](support-dps.md)
+- [Support Utility Before Damage](../practical-examples/support-utility.md)
 - [Tank / Support Learning Path](../learning-paths/tank-support.md)

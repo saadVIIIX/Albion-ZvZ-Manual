@@ -1,41 +1,42 @@
 # Role and Tool Library
 
-This is an advanced functional reference for role leads and players who want deeper examples of how tools create value in ZvZ.
+This library is an advanced functional reference for role leads and players who want deeper examples of how tools create value in ZvZ.
 
-It is **not** a current-meta shopping list and not a required first read. New players should begin with [Start Here](../start-here/index.md), [Role Guides](../roles/index.md), and [Fight Concepts](../fight-concepts/index.md).
+It is not a current-meta shopping list and not a required first read. New players should begin with [Start Here](../start-here/index.md), [Role Guides](../roles/index.md), and [Fight Concepts](../fight-concepts/index.md).
 
 ## How to use this library
 
-- Read the normal public pages first.
-- Use these pages when you need deeper role/tool detail.
-- Treat weapon names as examples of function, not as current-meta prescriptions.
-- Verify exact item behavior before turning any example into a live build recommendation.
+- Start from the role problem, not the item name.
+- Use weapon names as examples of function.
+- Avoid turning examples into mandatory meta claims.
+- Check current item behavior before using a tool in a live comp.
 
-## Tank pages
-
-| Page | Use |
-|---|---|
-| [Zerg Armor: Tank Layer System](zerg-armor-tank-system.md) | clump, disengage, kite, scout tank model |
-| [Disengage Tank Deep Dive](disengage-tank-deep-dive.md) | Heavy Mace, Grovekeeper, Grailseeker, D-tank playstyle |
-
-## DPS pages
+## Tank and control tools
 
 | Page | Use |
 |---|---|
-| [Zerg Spear: DPS Role Families](zerg-spear-dps-system.md) | melee burst, melee DoT, ranged burst, support DPS |
-| [Ranged DPS Deep Dive](ranged-dps-deep-dive.md) | Fire/Brimstone, Longbow, Siege Bow, Q/W pressure |
-| [Melee DoT / Pressure DPS Deep Dive](melee-dot-dps-deep-dive.md) | Halberd, Infernal Scythe, pressure theory |
-| [Melee Burst DPS Deep Dive](melee-burst-dps-deep-dive.md) | punctuality, sidekick rule, burst weapon families |
-| [Support DPS Deep Dive](support-dps-deep-dive.md) | utility plus damage, pierce/stun/purge/anti-heal logic |
+| [Tank and CC Tool Families](zerg-armor-tank-system.md) | clump, stop, kite-control, and information roles |
+| [Disengage / Stopper Tool Notes](disengage-tank-deep-dive.md) | how defensive tanks delay, interrupt, and protect space |
+| [Tank / CC Weapon Notes](tank-cc-weapons.md) | practical tank/CC examples |
 
-## Healer and support pages
+## DPS and pressure tools
 
 | Page | Use |
 |---|---|
-| [Zerg Heart and Shield: Healer and Support Families](zerg-heart-shield-system.md) | healer/support taxonomy |
-| [Healer Deep Dive](healer-deep-dive.md) | single-target saving, Holy/Nature value, heal-forward rule |
-| [Supports Deep Dive](supports-deep-dive.md) | anticipation, direct-counter support, HVT positioning |
+| [DPS Role Families](zerg-spear-dps-system.md) | ranged, melee, pressure, burst, execute, and support-DPS categories |
+| [Ranged DPS Tool Notes](ranged-dps-deep-dive.md) | Q/W pressure, angles, and ranged conversion examples |
+| [Melee Pressure Tool Notes](melee-dot-dps-deep-dive.md) | sustained pressure, healer strain, and frontline danger |
+| [Melee Burst Tool Notes](melee-burst-dps-deep-dive.md) | entry timing, exit discipline, and burst windows |
+| [Support DPS Tool Notes](support-dps-deep-dive.md) | pierce, anti-heal, purge, disruption, and utility timing |
+
+## Healer and support tools
+
+| Page | Use |
+|---|---|
+| [Healer and Support Families](zerg-heart-shield-system.md) | Holy, Nature, mitigation, mobility, and disruption categories |
+| [Healer Tool Notes](healer-deep-dive.md) | danger-area healing, targeted saving, Holy/Nature value |
+| [Support Tool Notes](supports-deep-dive.md) | anticipation, defensive timing, and support positioning |
 
 ## Reading order
 
-Use the main role pages first. Return here when you want deeper examples of how specific tools serve those roles.
+Use the main role pages first. Return here when you want more examples of how specific tools serve those roles.

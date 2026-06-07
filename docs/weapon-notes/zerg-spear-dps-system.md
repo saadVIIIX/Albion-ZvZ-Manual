@@ -1,127 +1,35 @@
-# Zerg Spear: DPS Role Families
+# DPS Role Families
 
-Episode 10 frames DPS as the zerg's spear.
+DPS should not be treated as one generic damage role. Different DPS tools create value in different ways.
 
-The key correction is that DPS should not be treated as one generic damage role.
-
-## Four DPS families
+## Main DPS families
 
 | DPS family | Main value | Core mistake to avoid |
 |---|---|---|
-| Melee burst | short-window melee damage | staying clumped after casting, arriving late, or clapping alone |
-| Melee DoT / pressure | sustained pressure, healer strain, flank pressure | clumping like a burst group or chasing one target |
-| Ranged burst | ranged conversion and angle-based damage | only playing E cooldown and wasting Q/W uptime |
-| Support DPS | utility plus enough damage to matter | judging the weapon only by raw DPS |
+| Ranged pressure / burst | angles, E-window damage, Q/W pressure, safe uptime | disappearing between E cooldowns |
+| Melee burst / clap | short-window melee damage and fast conversion | entering late or staying clumped after casting |
+| Melee pressure / DoT | sustained pressure, healer strain, forced movement | chasing one target instead of pressuring space |
+| Support DPS | utility plus enough damage or pressure to matter | judging the weapon only by raw DPS |
+| Execute DPS | finishing low or trapped players | diving without a real window or exit |
 
-## Melee burst
+## How to judge DPS tools
 
-Melee burst weapons tend to hit in a short window and rely on speed, mobility, and clean exit timing.
+Ask:
 
-Useful examples to read by function include:
+- Does this tool create pressure or only look impressive?
+- Does its damage land during the actual window?
+- Does it need support utility first?
+- Does it still do useful work between major cooldowns?
+- Does the player have a safe exit after committing?
 
-- Galatine Pair
-- Kingmaker
-- Realmbreaker, depending on setup and use
-- Ravenstrike
-- Spiked Gauntlets
-- Demonfang
-- Bridled Fury
+## Lesson
 
-Additional historically used or historical examples to track:
+A DPS weapon is valuable when it helps the zerg convert space, pressure, or kills. Raw damage is only one part of that value.
 
-- Battle Bracers
-- Hellfire Hands
-- Ursine Maulers
-- Phantom Twinblade
+## Related pages
 
-Public lesson:
-
-> Melee burst survival is speed, timing, and leaving the danger point immediately after the hit.
-
-Patch caution: historical examples should be treated as **patch-sensitive** unless verified for the current meta.
-
-## Melee DoT / pressure
-
-Melee DoT is not trying to create one huge clump-and-dump. It wins through spread, time, healer strain, and line pressure.
-
-Weapons or concepts discussed include:
-
-- Halberd
-- Infernal Scythe
-- Greataxe, with patch/meta caution
-- Bear Paws
-- Kingmaker or Clarent-style low-cooldown pressure possibilities, depending on use
-- Infinity Blade as another low-cooldown pressure-style example to verify
-
-Public lesson:
-
-> Melee DoT fights the enemy healer's attention and mana as much as it fights enemy HP.
-
-## Ranged burst
-
-Ranged burst uses distance, angles, and often stronger Q/W options than melee burst.
-
-Weapons discussed or tracked include:
-
-- Brimstone / Wildfire-style fire burst
-- Longbow
-- Mistpiercer, with strong caution
-- Siege Bow
-- Weeping
-- Energy Shaper
-
-Additional historically used or verify ranged burst examples:
-
-- Rift Glaive
-- Heavy Crossbow
-- Wailing Bow
-- Dawnsong, which may be used as support DPS in some zergs and main DPS in others depending on comp purpose
-
-Public lesson:
-
-> Ranged burst should not be reduced to E-only gameplay. Q/W pressure and angles are part of the role.
-
-## Support DPS
-
-Support DPS deals less raw damage than pure damage weapons but brings utility that makes kills possible.
-
-Examples discussed include:
-
-- Permafrost-style stun utility
-- Carving / Spirit Hunter / Damnation / Realmbreaker pierce logic
-- Bow of Badon channel interruption
-- Dawnsong-style anti-heal / Fire Q/W value
-- Daybreaker / purge-style logic, depending on use
-
-Public lesson:
-
-> Support DPS must be judged by what it enables, not only by damage meter output.
-
-## Build logic
-
-Evaluate a weapon by how the whole kit is used:
-
-- weapon
-- Q/W options
-- E timing
-- helmet
-- chest
-- boots
-- food/potion
-- role purpose
-- caller style
-
-## Public-manual impact
-
-This page should feed:
-
-- DPS Overview
-- Ranged DPS
-- Melee Pressure / Execute DPS
-- Support DPS
-- DPS Weapon Notes
-- Fight Style Literacy
-
-## Review note
-
-The additional weapon examples added during review are intentionally labeled as historical/historical examples. They should not be presented as current meta until verified.
+- [DPS Overview](../roles/dps-overview.md)
+- [Ranged DPS](../roles/ranged-dps.md)
+- [Support DPS](../roles/support-dps.md)
+- [Melee Pressure / Execute DPS](../roles/melee-pressure-dps.md)
+- [DPS Timing](../fight-concepts/dps-timing.md)

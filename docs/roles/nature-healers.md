@@ -1,48 +1,36 @@
 # Nature Healers
 
-Nature healers are often undervalued in Albion zergs, but this project treats them as part of the core healer package.
-
-The point is not **Nature instead of Holy**. The point is **Holy plus Nature**.
+Nature healing gives sustained coverage, route support, and long-fight stability.
 
 ## Purpose
 
-Nature provides sustained value that direct healing alone does not fully replace:
+Nature is not filler behind Holy healing. Nature helps the zerg stay functional when fights do not end in one engage.
 
-- HoT coverage
-- healing zones
-- sustained recovery through longer fights
-- support for players holding pressure instead of panic-running
-- stabilization after the first burst window
-- route and terrain support
+Nature value includes HoT coverage, flank support, route stabilization, sustain through skirmish pressure, and recovery after the first burst window.
 
 ## Why Nature matters
 
-Many zergs over-stack one direct-healing style and under-value Nature. That creates weaknesses:
+A zerg that only survives the first hit but cannot keep moving, rotating, or holding space will still lose.
 
-- weaker recovery after the first burst
-- less sustained coverage in brawl/control fights
-- less zone value for chokes, holds, and kites
-- less support for players who must remain in useful space
+Nature helps with:
 
-Nature helps a zerg stay functional when the fight does not end in one engage. HoT and sustain healing cover flanks, support skirmish recovery, stabilize the zerg after pressure, and keep players active between burst-heal moments.
+- sustained pressure
+- flank healing
+- objective holds
+- crossing and route support
+- recovery after sharp damage
+- keeping players active between burst-heal moments
 
 ## Where you stand
 
-Nature positioning depends on where players **should stand next**, not only where they are now.
-
-Examples:
-
-- If the zerg holds a choke, Nature value should support that hold.
-- If the zerg kites as a unit, Nature zones should support the route.
-- If the zerg fights around an objective, Nature should help players remain in the useful fight space.
-- If players are told to push or hold, Nature should not be placed where only retreating players can use it.
+Nature should be close enough that players can actually use your healing zones and HoTs while staying in useful fight space.
 
 ## What you watch
 
-- where the route is going
-- where the next danger area will form
-- whether Holy can cover burst damage
-- whether your zone overlaps another Nature wastefully
+- friendly route
+- where the next sustained fight will happen
+- whether players are leaving healing zones too early
+- whether zones overlap wastefully
 - whether players can realistically stand in your healing area
 
 ## Common failures

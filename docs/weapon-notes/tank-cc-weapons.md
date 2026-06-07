@@ -35,7 +35,7 @@ Common mistakes:
 
 - reacting after enemy damage lands
 - using cooldowns randomly
-- chasing one caught player instead of blocking reinforcements
+- chasing one caught player instead of blocking enemy follow-up
 
 ### Heavy Mace / 1h Arcane / purge-stop roles
 
@@ -58,7 +58,7 @@ Common mistakes:
 **Role family:** support tank / engage-control  
 **General value:** In the current Albion ZvZ Formation Ledger, Incubus belongs to the engage/control tank family rather than being framed as a passive defensive support.
 
-## Public-manual framing
+## Role framing
 
 Do not over-label tanks too rigidly. A tank is still a tank, and the exact job changes by fight state, comp, and caller instruction.
 
@@ -68,10 +68,3 @@ Do not over-label tanks too rigidly. A tank is still a tank, and the exact job c
 - [Stopper Tanks](../roles/stopper-tanks.md)
 - [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
-
-## Further reference
-
-For deeper deeper reference material, use:
-
-- [Zerg Armor: Tank Layer System](zerg-armor-tank-system.md)
-- [Disengage Tank Deep Dive](disengage-tank-deep-dive.md)

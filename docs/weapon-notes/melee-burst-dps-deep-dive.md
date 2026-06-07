@@ -1,92 +1,38 @@
-# Melee Burst DPS Deep Dive
+# Melee Burst Tool Notes
 
-Episode 17 focuses on melee burst DPS.
+Melee burst tools are punishing because the player must enter danger to create value.
 
-The central lesson is that melee burst is high risk because the player enters the place the enemy wants to counter-engage. A melee burst player who is late often dies where the enemy counter lands.
+## What melee burst should create
 
-## Weapon families discussed
+- fast conversion during a short window
+- punishment on clumped or trapped enemies
+- pressure that forces defensives immediately
+- a clear exit before counter-engage lands
 
-| Weapon / family | Public lesson |
-|---|---|
-| Galatine Pair | large AoE, escalation value, off-cooldown clap potential |
-| Kingmaker | lower-cooldown burst/pressure hybrid; can act as mini-Galatine when played as burst |
-| Realmbreaker | burst/utility pressure; exact current role is patch-sensitive |
-| Ravenstrike | damage plus area-denial / hesitation value; channel/telegraph must be understood |
-| Spiked Gauntlets | burst engage value but limited kit outside E |
-| Demonfang | strong melee burst but requires disciplined timing and exit |
-| Bridled Fury | burst option; current viability and details patch-sensitive |
+## Timing rule
 
-## Core rule: be punctual
+A late ranged DPS player may simply miss damage. A late melee burst player may enter exactly where the enemy counter-engage lands.
 
-Melee burst must be on time.
+Melee burst should ask:
 
-If the player is two or three seconds late to the main clump, they may be entering exactly when the enemy counter-engage lands. In that case, the better play may be to hit a safer side clump, flank clump, or different real target instead of diving straight into the main danger area.
+- is the target actually held?
+- has support utility landed?
+- where is my exit?
+- what enemy counter tools are still available?
 
-## Sidekick rule
+## Side-angle value
 
-Off-angle or greedy claps can be correct, but do not clap alone.
-
-If a melee burst player sees a valuable side clump, the question is:
-
-> Is another allied damage player also hitting this, or am I just feeding alone?
-
-The sidekick rule protects burst players from turning good awareness into isolated suicide.
-
-## Off-cooldown clappers
-
-Some weapons do not always fit the caller's exact countdown because they require stack prep, movement, or opportunity timing.
-
-That does not make them useless.
-
-Off-cooldown clappers can:
-
-- punish enemy recovery
-- hit enemies walking through chokes
-- force defensives between main engages
-- punish bad rotations
-- add timing pressure when enemies think they are safe
-
-## Kingmaker framing
-
-Kingmaker can be treated as a lower-cooldown burst/pressure hybrid.
-
-Public lesson:
-
-> A weapon can be burst, pressure, or hybrid depending on cooldown, kit, and how the player uses it.
-
-Do not turn this into a permanent meta claim; exact current item behavior must be checked.
-
-## Ravenstrike / Spiked framing
-
-Gauntlet burst tools can have powerful E value, but the public manual should warn that a strong E does not automatically mean the full kit is complete.
-
-Public lesson:
-
-> A weapon's whole kit matters. Q/W value, mobility, survival, and role purpose all decide whether the weapon belongs.
-
-## Defensive and mobility logic
-
-Melee burst players need defensives and mobility because they enter the counter-engage point.
-
-Important public lessons:
-
-- do not greed damage so hard that you cannot exit
-- boots matter because melee burst has to get in and out
-- cleanse/CC immunity tools can be valuable
-- exact helmet/boot choices are patch-sensitive and should be verified before stable build cards
+Melee burst often needs side angles or counter-engage windows. Walking straight through friendly clumps into enemy center mass usually creates unnecessary escalation and death.
 
 ## Review questions
 
-- Did the melee burst player arrive on time?
-- If late, did they choose a safer alternate clump?
-- Did they clap with a sidekick or alone?
-- Did they exit before the enemy counter?
-- Did they use the whole kit, not only E?
-- Did they force defensives or punish recovery even without kills?
+- Did the melee burst arrive on time?
+- Did it have a real target window?
+- Did the player leave after casting?
+- Did the play force defensives or kills?
 
 ## Related pages
 
-- [Zerg Spear: DPS Role Families](zerg-spear-dps-system.md)
+- [Melee Pressure / Execute DPS](../roles/melee-pressure-dps.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
-- [Melee DoT / Pressure DPS Deep Dive](melee-dot-dps-deep-dive.md)
-- [Pressure Types](../fight-concepts/pressure-types.md)
+- [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)

@@ -1,4 +1,4 @@
-Albion ZvZ Manual - Public Reader Cleanup v3.1.4
+Albion ZvZ Manual - Public Reader Cleanup v3.1.5
 
 This package cleans the live public reader path:
 - removes leftover source-process wording from normal pages

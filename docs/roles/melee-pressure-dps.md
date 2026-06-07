@@ -1,11 +1,12 @@
 # Melee Pressure / Execute DPS
 
-
-Melee pressure and execute roles create threat inside or near enemy space, but they must not donate free AoE escalation.
+Melee pressure and execute roles create danger close to the enemy.
 
 ## Purpose
 
-Melee DPS can pressure frontlines, execute low targets, punish stuck players, and create danger after enemy cooldowns are spent. These roles are powerful when they time entry correctly. Their value is not only glory kills: melee pressure can strain healers, force movement, drain mana, make enemies spend recovery tools early, and punish players who stay too long.
+Melee DPS can pressure frontlines, execute low targets, punish stuck players, and create danger after enemy cooldowns are spent. These roles are powerful when they time entry correctly.
+
+Their value is not only glory kills. Melee pressure can strain healers, force movement, drain mana, make enemies spend recovery tools early, and punish players who stay too long.
 
 ## First engage vs counter engage
 

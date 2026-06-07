@@ -1,6 +1,6 @@
 # Build Evaluation Framework
 
-This page turns AO University Ep. 5 — Gearing Up into a reusable build-analysis method.
+Use this page to judge whether a build fits a ZvZ job. It is not a meta list.
 
 ## Core question
 
@@ -18,48 +18,21 @@ Ask:
 |---|---|---|
 | Goal | What job am I trying to perform? | wearing a set because it is approved, not because it has a purpose |
 | Priority | What matters most for that role? | overvaluing damage, cooldown, or survival while ignoring role requirements |
-| Synergy | Do the pieces work together? | weapon, armor, food, and defensives all solve different unrelated problems |
+| Synergy | Do the pieces work together? | weapon, armor, food, and defensives all solve unrelated problems |
 
 ## Role requirements
 
 | Role family | Non-negotiable requirement |
 |---|---|
-| Tank | must survive enough to take or hold pressure |
-| DPS | must actually deliver useful damage or pressure |
-| Healer | must heal the danger area, not just survive in the back |
-| Support | must assist the zerg's real tactical problem |
-| Caller | must see, move, survive, and communicate the fight |
+| Tank | survive enough to take, stop, or hold pressure |
+| DPS | deliver useful damage, pressure, or conversion |
+| Healer | heal the danger area, not just safe party frames |
+| Support | answer the zerg's real tactical problem |
+| Caller | see, move, survive, and communicate the fight |
 
-## Specialty and sub-specialty
+## Trade-offs
 
-A role label is not enough.
-
-A tank may be:
-
-- engage
-- clump
-- hard stopper
-- soft stopper
-- peel
-- flank/tank scout
-- objective/choke control
-
-A DPS may be:
-
-- burst/clap
-- ranged pressure
-- melee pressure
-- support DPS
-- execute
-- DoT / anti-heal pressure
-
-Build analysis must reach the actual job, not stop at the broad label.
-
-## Priorities are trade-offs
-
-A build cannot do everything.
-
-Good builds choose trade-offs consciously:
+A build cannot do everything. Good builds choose trade-offs consciously:
 
 - more damage vs more consistency
 - more survivability vs more output
@@ -67,35 +40,15 @@ Good builds choose trade-offs consciously:
 - more personal safety vs more group utility
 - more burst vs more pressure uptime
 
-## Defensives are not optional
-
-A glass cannon that dies before doing its job is not carrying the zerg.
-
-Defensive choices should not be treated as weakness. They are often what allow the build to deliver value repeatedly.
-
-## Situational versatility
-
-A build should still function when the fight changes:
-
-- open world
-- choke
-- castle/territory
-- kite
-- chase
-- counter-engage
-- bomb squad pressure
-
-A build that only works in one clean scenario may fail in real ZvZ.
-
 ## Testing method
 
-Before demanding that a guild use a new build:
+Before demanding that a group use a new build:
 
-1. define the role goal,
-2. check priorities and synergy,
-3. test under pressure,
-4. review whether the build still functions when interrupted, displaced, or forced to move,
-5. keep the useful pieces even if the whole build fails.
+1. define the role goal
+2. check priorities and synergy
+3. test under pressure
+4. review whether the build still functions when interrupted, displaced, or forced to move
+5. keep the useful pieces even if the whole build fails
 
 ## Related pages
 

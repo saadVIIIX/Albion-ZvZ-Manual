@@ -34,7 +34,7 @@ If the zerg crosses a dangerous gate, bridge, or choke, tanks/supports are often
 ## Common failures
 
 - standing inside friendly clumps
-- chasing the caught target instead of blocking reinforcements
+- chasing the caught target instead of blocking enemy follow-up
 - using major CC on low-value tanks
 - reacting after enemy damage starts
 - leaving a choke after only one cooldown

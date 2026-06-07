@@ -22,3 +22,15 @@ Do not memorize names. Learn the behavior:
 - when should I pressure?
 - when should I save or spend cooldowns?
 - what does the enemy want if we make a mistake?
+
+
+## Style pages
+
+| Page | Use |
+|---|---|
+| [Bait and Switch](bait-and-switch.md) | force a response, then punish the cooldown window |
+| [Tsunami / Flood](tsunami-flood.md) | understand chaos entries and multi-angle pressure |
+| [Kite / Control Calling](kite-control-calling.md) | stretch enemy movement, then turn when they overextend |
+| [Turn and Burn](turn-and-burn.md) | stop retreating once the enemy has spent tools |
+| [Sword Engage](sword-engage.md) | direct commit and distance-cutting calls |
+| [Crescent Pressure](crescent-pressure.md) | angle shape and pressure around enemy exits |

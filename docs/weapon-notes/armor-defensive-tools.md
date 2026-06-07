@@ -19,7 +19,7 @@ Armor and defensive tools should be evaluated by what they provide to the zerg, 
 
 Immunity helmets can become a crutch when players rely on individual survival instead of team positioning, support systems, and role discipline.
 
-Public framing:
+Framing:
 
 - do not teach players to ignore personal survival
 - do teach players that high-level value often comes from utility that helps the zerg
@@ -39,7 +39,7 @@ Knight Armor / Royal Armor examples belong to applied-package build logic. Keep 
 
 Caller mobility examples teach a general principle: mobility, vision, rotations, and angles can sometimes matter more than raw cooldown or personal survivability. Exact build choices belong in applied package pages.
 
-## Public framing
+## Framing
 
 Do not teach players to pick only selfish survival if that removes group value. Also do not remove survivability from roles that must survive to function.
 

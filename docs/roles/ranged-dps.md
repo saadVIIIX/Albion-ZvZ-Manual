@@ -28,20 +28,16 @@ If your spell has cast time or travel time, starting at zero is often late. The 
 
 ## Between engages
 
-Ranged DPS should maintain pressure when safe:
+Ranged DPS should not disappear between major E cooldowns. A useful ranged DPS player keeps creating value through:
 
 - Q/W pressure
 - small-clump hits
 - low-target conversion
-- defensive Firewall or path denial
-- auto attacks when safe
-- positioning pressure that makes enemies uncomfortable
+- safe auto attacks when they do not trap you
+- defensive area denial or path control when your kit allows it
+- pressure on enemies entering friendly backline space
 
 Many fights are won by pressure between major cooldowns.
-
-## Baseline behavior
-
-Ranged DPS should not disappear between major E cooldowns. A useful ranged DPS player keeps creating value through Q/W pressure, angle discipline, target reading, small-clump hits, and backline space control.
 
 ## Common failures
 

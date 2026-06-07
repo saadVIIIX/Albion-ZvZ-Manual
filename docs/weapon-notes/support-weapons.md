@@ -46,7 +46,7 @@ Common mistakes:
 ### Truebolt
 
 **Role family:** experimental support/utility  
-**General value:** Truebolt remains an applied-package/experimental example. Use it to discuss how experimental utility should be labeled, not as general public doctrine.
+**General value:** Truebolt is an applied-package example of experimental utility. Treat it as formation-specific unless a group has tested it for its own needs.
 
 ### Purge roles: 1h Arcane / Heavy Mace / Lifecurse-style logic
 
@@ -71,11 +71,3 @@ Late utility often looks active but fails to change the fight.
 - [Support DPS](../roles/support-dps.md)
 - [Support Utility Before Damage](../practical-examples/support-utility.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
-
-## Further reference
-
-For deeper deeper reference material, use:
-
-- [Zerg Heart and Shield: Healer and Support Families](zerg-heart-shield-system.md)
-- [Supports Deep Dive](supports-deep-dive.md)
-- [Support DPS Deep Dive](support-dps-deep-dive.md)

@@ -27,6 +27,9 @@ Understanding style helps you avoid using the wrong response.
 | [Kite / Control Concepts](kite-control.md) | movement, spacing, and turn windows |
 | [Ranged Pressure Concepts](ranged-pressure.md) | pressure from range without making one weapon the default |
 | [Melee Pressure Concepts](melee-pressure.md) | melee threat, executes, disruption, and safe commit windows |
+| [Melee Clap Concepts](melee-clap.md) | short-window melee burst and exit discipline |
+| [Melee DoT / Pressure](melee-dot-pressure.md) | sustained damage, anti-heal, and healer strain |
+| [Hybrid / Mixed Zergs](hybrid-mixed.md) | how mixed styles combine pressure, control, and engage windows |
 | [Style Counters](style-counters.md) | how broad styles pressure or punish each other |
 
 ## Important limitation

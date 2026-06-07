@@ -18,6 +18,8 @@ Possible contributions include:
 - pressure that keeps targets inside damage
 - utility that makes enemy healing/defense weaker or late
 
+Support DPS is neither normal DPS nor pure support. It must bring utility that helps the zerg convert kills while still adding enough damage, pressure, or disruption to justify a DPS slot.
+
 ## Timing principle
 
 Utility late is often worthless.
@@ -34,10 +36,6 @@ Sometimes a smaller on-time button is better than a big late E.
 - whether your E will be late
 - whether W/smaller utility can still land on time
 - whether your utility is enabling kills or chasing meters
-
-## Baseline behavior
-
-Support DPS is neither normal DPS nor pure support. It must bring utility that helps the zerg convert kills while still adding enough damage, pressure, or disruption to justify a DPS slot.
 
 ## Common failures
 

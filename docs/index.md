@@ -72,7 +72,7 @@ Exact values, cooldowns, item behavior, and current strength claims should still
 
 ## Credits
 
-Core educational credit belongs to **Khelron and AO University**. Their teachings are a major backbone for this project. This site organizes and applies those lessons into a public manual, optional Formation Ledger structure, and source-preservation archive for the Albion community.
+Core educational credit belongs to **Khelron and AO University**. Their teachings are a major backbone for this project. This site organizes and applies those lessons into a public manual and optional Formation Ledger for the Albion community.
 
 ## Current state
 
