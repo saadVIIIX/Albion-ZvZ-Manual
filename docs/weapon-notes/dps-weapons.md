@@ -103,7 +103,7 @@ Common mistakes:
 
 ## Under-extracted weapon families
 
-These families should receive source-backed notes later:
+These families should receive clearer examples later:
 
 - axes
 - swords
@@ -124,7 +124,7 @@ Do not fill these with guesswork. Leave unsupported or unclear examples out unti
 
 ## Further reference
 
-For deeper source-reference material, use:
+For deeper deeper reference material, use:
 
 - [Zerg Spear: DPS Role Families](zerg-spear-dps-system.md)
 - [Ranged DPS Deep Dive](ranged-dps-deep-dive.md)

@@ -47,4 +47,4 @@ Comp-specific structure, build library details, and party assignment logic belon
 - [Role Guides](../roles/index.md)
 - [Weapon and Ability Notes](../weapon-notes/index.md)
 - [Training](../training/index.md)
-- [Known Limitations](../sources-credit/known-limitations.md)
+- [Current Scope](../sources-credit/current-scope.md)

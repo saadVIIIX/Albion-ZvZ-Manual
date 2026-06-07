@@ -107,6 +107,4 @@ Pause VOD five seconds before a major movement or positioning mistake. Ask each 
 ## Related pages
 
 - [How to Read Calls](../start-here/how-to-read-calls.md)
-- [Crescent Pressure Diagram](../diagrams/crescent-pressure.md)
-- [Kite Route / Turn Window](../diagrams/kite-route-turn-window.md)
 - [Terrain and Geometry](terrain-geometry.md)

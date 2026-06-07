@@ -18,14 +18,15 @@ All DPS players should learn:
 
 ## DPS families
 
-| DPS family | General job |
+Use these families to judge function, not only damage-meter value.
+
+| DPS family | What to judge |
 |---|---|
-| Ranged DPS | pressure and convert from distance |
-| Melee DPS | pressure, follow-up, disruption, execute, or frontline threat depending on weapon |
-| Support DPS / utility DPS | pierce, heal cut, purge, debuff, or enable allied damage |
-| Execute DPS | punish low or exposed players |
-| Burst/clap DPS | land synchronized damage in a short window |
-| Pressure/DoT DPS | keep sustained threat, force healing, and punish resets |
+| Ranged DPS | angle discipline, E-window damage, Q/W pressure, safe uptime |
+| Melee burst / clap DPS | timing, speed, entry angle, exit discipline, short-window damage |
+| Melee pressure / DoT DPS | spread, sustained pressure, healer strain, forced movement |
+| Support DPS / utility DPS | pierce, heal cut, purge, disruption, and enough pressure to justify the slot |
+| Execute DPS | timing, target selection, and avoiding free deaths while finishing low players |
 
 These are broad literacy labels, not fixed comp slots.
 
@@ -52,25 +53,3 @@ Specific weapons and abilities belong in [Weapon and Ability Notes](../weapon-no
 - [Melee Pressure / Execute DPS](melee-pressure-dps.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
-
-## DPS family model
-
-A useful DPS taxonomy is:
-
-| DPS family | What to judge |
-|---|---|
-| Melee burst | timing, speed, exit, short-window damage |
-| Melee DoT / pressure | spread, sustained pressure, healer strain |
-| Ranged burst | angles, E-window damage, Q/W pressure |
-| Support DPS | utility that enables kills plus enough damage to matter |
-
-Do not judge every DPS weapon only by raw damage.
-
-## Timing and utility completion
-
-Advanced DPS review adds two important lessons:
-
-| DPS family | Added lesson |
-|---|---|
-| Melee burst | punctuality, sidekick rule, off-cooldown clapper value, exit discipline |
-| Support DPS | utility plus damage, role-focused gearing, timing and exit rule |

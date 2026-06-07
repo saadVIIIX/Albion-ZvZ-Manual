@@ -11,7 +11,7 @@ Your job is to turn doctrine into stable habits and clean tools.
 3. [Concept-to-Drill Map](../training/concept-to-drill-map.md)
 4. [Caller / Officers](../roles/caller-officers.md)
 5. [Formation Ledger](../workbooks/index.md)
-6. [Known Limitations](../sources-credit/known-limitations.md)
+6. [Current Scope](../sources-credit/current-scope.md)
 
 ## Practical next action
 

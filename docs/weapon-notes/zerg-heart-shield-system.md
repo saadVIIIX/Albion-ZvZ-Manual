@@ -38,9 +38,9 @@ The public lesson is simple: **Nature is not filler**.
 
 ## Pocket healer doctrine
 
-Pocket healers are responsible for keeping a high-value player alive. Divine-style shielding is the clean example in the AOU episode, but other targeted or protective healing tools can function as pocket-healing concepts depending on the comp.
+Pocket healers are responsible for keeping a high-value player alive. Divine-style shielding is the clean example in the role model, but other targeted or protective healing tools can function as pocket-healing concepts depending on the comp.
 
-This role should not be overexpanded in the public manual until more source material is processed.
+This role should not be overexpanded in the public manual until more role material is processed.
 
 ## Support families
 

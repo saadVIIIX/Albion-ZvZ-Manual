@@ -1,30 +1,16 @@
-# Contribution and Correction Policy
+# Contribute / Corrections
 
-The manual should stay useful, honest, and public-facing.
+Corrections should help the manual become clearer, safer, and more useful for public readers.
 
-Corrections should identify:
-
-- the page
-- the claim or wording that needs attention
-- the suggested correction
-- the source, reasoning, or example that supports the correction
-
-## What belongs in public corrections
+Useful corrections include:
 
 - broken links
 - unclear wording
 - outdated mechanics references
 - confusing navigation
-- missing role behavior explanations
-- examples that sound too much like current-meta commands
+- missing role-behavior explanations
+- examples that sound like forced meta recommendations
 
-## What does not belong in public corrections
+Please include the page, the issue, and the suggested fix.
 
-- private player callouts
-- guild drama
-- unsupported meta certainty
-- requests to turn one comp package into universal doctrine
-
-## Privacy rule
-
-VOD review can teach patterns without naming or shaming private players. Teach the decision, the common failure, and the better habit.
+Do not submit private player callouts, guild drama, unlisted VOD identifiers, or unsupported claims that one comp package should become universal doctrine.

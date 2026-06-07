@@ -36,6 +36,6 @@ It is **not** a current-meta shopping list and not a required first read. New pl
 | [Healer Deep Dive](healer-deep-dive.md) | single-target saving, Holy/Nature value, heal-forward rule |
 | [Supports Deep Dive](supports-deep-dive.md) | anticipation, direct-counter support, HVT positioning |
 
-## Rule
+## Reading order
 
-This library preserves depth while keeping the main reader path focused on role behavior, fight concepts, and functional examples.
+Use the main role pages first. Return here when you want deeper examples of how specific tools serve those roles.

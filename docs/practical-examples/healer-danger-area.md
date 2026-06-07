@@ -44,5 +44,4 @@ Pause one second before enemy damage lands. Ask:
 
 - [Holy Healers](../roles/holy-healers.md)
 - [Nature Healers](../roles/nature-healers.md)
-- [Danger-Area Healing Diagram](../diagrams/danger-area-healing.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)

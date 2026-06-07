@@ -24,7 +24,7 @@ Many zergs over-stack one direct-healing style and under-value Nature. That crea
 - less zone value for chokes, holds, and kites
 - less support for players who must remain in useful space
 
-Nature helps a zerg stay functional when the fight does not end in one engage.
+Nature helps a zerg stay functional when the fight does not end in one engage. HoT and sustain healing cover flanks, support skirmish recovery, stabilize the zerg after pressure, and keep players active between burst-heal moments.
 
 ## Where you stand
 
@@ -67,13 +67,4 @@ Review every major Nature zone and ask:
 
 - [Holy Healers](holy-healers.md)
 - [Kite as a Unit](../practical-examples/kite-as-unit.md)
-- [Danger-Area Healing Diagram](../diagrams/danger-area-healing.md)
 - [Healer Learning Path](../learning-paths/healer.md)
-
-## Sustain healer value
-
-HoT and sustain healers are not filler. Sustain healing covers flanks, supports skirmish recovery, stabilizes the zerg after pressure, and keeps players active between burst-heal moments.
-
-## Route and recovery value
-
-Nature healing supports recovery, flanks, routes, and stabilization. Teach Nature as part of the healer package, not as filler behind Holy healing.

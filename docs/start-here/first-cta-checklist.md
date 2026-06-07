@@ -1,23 +1,24 @@
 # First CTA Checklist
 
-Before content:
+Use this page to choose a few habits for your first fights. It is not a gear checklist; it is a field-behavior checklist.
 
-- Confirm you are signed up.
-- Know your assigned role and backup role.
-- Check the build library.
-- Know whether you are Holy, Nature, support, tank, or DPS.
-- Ask one role question before massing, not during the fight.
-- Listen for the focus habit of the night.
+## Before the fight starts
 
-During content:
+- Pick one role goal for the CTA: hold spacing, heal the danger area, keep Q/W pressure, stop enemy entry, or follow the route cleanly.
+- Know your escape direction before the first engage, especially near walls, chokes, doors, and corners.
+- Decide what you are watching: caller position, enemy name tags, healer range, tank line, or the next safe route.
+- Set up your camera and UI so you can see the fight area, not only your own character.
 
-- Keep the caller / fight area relevant on your screen.
-- Do not tunnel on loot, one low target, or one enemy tank.
-- If the enemy engages somewhere else and you are safe, prepare to counter or pressure.
-- If you fall behind, use sprint or mount to catch up instead of waiting for a call.
+## During the fight
 
-After content:
+- Move to useful space; do not only move away from danger.
+- If the enemy spends major cooldowns and you are alive, prepare to pressure or counter instead of panic-running.
+- Do not clump on friendly players just because they look safe.
+- Use defensives early enough to matter, but do not dump them into safe space.
+- Keep doing your small job between big calls: Q/W pressure, healing coverage, peel, scouting, interrupts, or spacing.
 
-- Review one mistake.
-- Pick one drill.
-- Do not review ten things at once.
+## After the fight
+
+- Review one decision, not ten.
+- Ask where you should have been five seconds before the mistake.
+- Pick one habit to practice next CTA.

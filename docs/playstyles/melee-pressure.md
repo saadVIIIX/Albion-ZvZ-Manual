@@ -10,6 +10,6 @@ Melee pressure can mean many things: execute threat, sustained pressure, disrupt
 - allied support range
 - whether the melee player is adding value or just feeding escalation
 
-## Public-manual limitation
+## Core lesson
 
-This page stays broad unless specific AOU weapon notes or verified comp data support more detail.
+Melee pressure should make the enemy uncomfortable over time without donating free deaths. Judge it by pressure created, cooldowns forced, healer strain, and whether the player can exit or be supported.

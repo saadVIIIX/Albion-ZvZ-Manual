@@ -61,7 +61,7 @@ A strong zerg needs the healer package to cover:
 
 ## Further reference
 
-For deeper source-reference material, use:
+For deeper deeper reference material, use:
 
 - [Zerg Heart and Shield: Healer and Support Families](zerg-heart-shield-system.md)
 - [Healer Deep Dive](healer-deep-dive.md)

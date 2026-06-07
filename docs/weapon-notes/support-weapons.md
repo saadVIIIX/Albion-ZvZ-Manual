@@ -74,7 +74,7 @@ Late utility often looks active but fails to change the fight.
 
 ## Further reference
 
-For deeper source-reference material, use:
+For deeper deeper reference material, use:
 
 - [Zerg Heart and Shield: Healer and Support Families](zerg-heart-shield-system.md)
 - [Supports Deep Dive](supports-deep-dive.md)

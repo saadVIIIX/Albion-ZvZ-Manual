@@ -10,6 +10,8 @@ Holy keeps the endangered area alive long enough for the zerg to stabilize, coun
 
 The job is not simply to stand far away and keep party frames green. The job is to heal the people making the call possible.
 
+Holy value includes both emergency clump healing and targeted saving. Clumps often receive many AoE heals; a single-target save on a low tank, caller, or exposed support can be the difference between stabilizing and losing the fight.
+
 ## Where you stand
 
 Good Holy positioning usually means:
@@ -65,11 +67,3 @@ If not, the failure happened before the healing button was needed.
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
 - [Healer Learning Path](../learning-paths/healer.md)
-
-## Emergency clump healing
-
-Burst healers are emergency healers for clumps and danger areas. Holy healers must understand where enemy damage is likely to land, not only react to party-frame HP after the fact.
-
-## Single-target saving
-
-Holy healers should not rely only on AoE clump healing. Clumps already receive many AoE heals; single-target saving can be the difference between a low tank/caller surviving or dying.

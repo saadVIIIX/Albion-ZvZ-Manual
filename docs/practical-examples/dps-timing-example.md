@@ -53,4 +53,3 @@ If damage lands after recovery, the DPS timing is late.
 - [DPS Timing and Clump Selection](../fight-concepts/dps-timing.md)
 - [Ranged DPS](../roles/ranged-dps.md)
 - [Support DPS](../roles/support-dps.md)
-- [DPS Timing Sequence Diagram](../diagrams/dps-timing-sequence.md)

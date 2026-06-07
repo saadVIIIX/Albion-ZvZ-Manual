@@ -43,4 +43,3 @@ Pause when enemy name tags begin moving in. Mark every healthy plate player and 
 - [Stopper / Defensive Tanks](../roles/stopper-tanks.md)
 - [Supports](../roles/supports.md)
 - [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
-- [Defensive Layering Diagram](../diagrams/defensive-layering.md)

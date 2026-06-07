@@ -71,7 +71,7 @@ Do not over-label tanks too rigidly. A tank is still a tank, and the exact job c
 
 ## Further reference
 
-For deeper source-reference material, use:
+For deeper deeper reference material, use:
 
 - [Zerg Armor: Tank Layer System](zerg-armor-tank-system.md)
 - [Disengage Tank Deep Dive](disengage-tank-deep-dive.md)

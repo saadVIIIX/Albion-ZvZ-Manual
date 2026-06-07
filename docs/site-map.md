@@ -22,4 +22,4 @@ Use this page when you want the full public structure at a glance.
 6. [Weapon and Ability Notes](weapon-notes/index.md)
 7. [Training](training/index.md)
 
-The sidebar intentionally shows the public learning path, not every internal source-preservation page.
+The sidebar shows the public learning path and core reference sections.

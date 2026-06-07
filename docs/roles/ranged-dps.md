@@ -39,6 +39,10 @@ Ranged DPS should maintain pressure when safe:
 
 Many fights are won by pressure between major cooldowns.
 
+## Baseline behavior
+
+Ranged DPS should not disappear between major E cooldowns. A useful ranged DPS player keeps creating value through Q/W pressure, angle discipline, target reading, small-clump hits, and backline space control.
+
 ## Common failures
 
 - standing too far back to hit the counter
@@ -65,7 +69,3 @@ If these happen in the wrong order, the engage becomes weak even if the build is
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
 - [Ranged Pressure Playstyle](../playstyles/ranged-pressure.md)
 - [Ranged DPS Learning Path](../learning-paths/ranged-dps.md)
-
-## Minimum value standard
-
-Ranged DPS should not disappear between major E cooldowns. A useful ranged DPS player keeps creating value through Q/W pressure, angle discipline, target reading, small-clump hits, and backline space control.

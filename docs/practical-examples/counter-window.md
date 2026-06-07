@@ -55,4 +55,3 @@ The third group is the correction target.
 
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
 - [Turn and Burn](../calling-styles/turn-and-burn.md)
-- [Kite Route / Turn Window Diagram](../diagrams/kite-route-turn-window.md)

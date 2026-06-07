@@ -20,6 +20,18 @@ Depending on build, support may provide:
 - protection for tanks/frontline
 - protection for healers/DPS during movement
 
+## Support families
+
+Support is not one vague job. Most support tools fit one or more of these functions:
+
+| Support family | Main purpose |
+|---|---|
+| Damage mitigation | absorb or reduce incoming damage |
+| Mobility support | keep the zerg moving, crossing, rotating, or speeding up |
+| Enemy disruptor | delay, interrupt, purge, slow, or stop enemy plans |
+
+Good support play means reading which problem is about to happen, then using the right tool on the real danger area.
+
 ## Where you stand
 
 Support positioning should follow the enemy threat, not only the caller's literal movement direction.
@@ -40,6 +52,8 @@ If the zerg is crossing a choke, support the players still exposed.
 ## Timing
 
 A defensive support cooldown that lands late may look impressive but fail to save anyone. A defensive support cooldown on safe space may be worse than holding it.
+
+Supports should not be purely reactive. Read enemy movement, side angles, bomb squads, and off-cooldown engage threats before the damage lands.
 
 ## Common failures
 
@@ -65,19 +79,3 @@ For each enemy engage, mark:
 - [Stopper Tanks](stopper-tanks.md)
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
 - [Tank / Support Learning Path](../learning-paths/tank-support.md)
-
-## Support family model
-
-Supports can be split into three useful public categories:
-
-| Support family | Main purpose |
-|---|---|
-| Damage mitigation | absorb or reduce incoming damage |
-| Mobility support | keep the zerg moving, crossing, rotating, or speeding up |
-| Enemy disruptor | delay, interrupt, purge, slow, or stop enemy plans |
-
-This prevents "support" from becoming one vague label.
-
-## Support anticipation
-
-Supports are direct counters to enemy pressure. Supports must anticipate enemy movement, watch side angles and bomb squads, prioritize real danger, and often help keep the tank layer alive.

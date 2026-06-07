@@ -70,7 +70,7 @@ Pocket healing exists to keep a high-value player alive, such as a caller or cri
 
 Public caution:
 
-- do not overexpand pocket healing into general doctrine without enough source material
+- do not overexpand pocket healing into general doctrine without enough role material
 - keep it as a specialized role family
 
 ## Review questions

@@ -56,4 +56,3 @@ Pause five seconds before a movement call and ask each role where it should be f
 
 - [How to Read Calls](../start-here/how-to-read-calls.md)
 - [Movement and Positioning](../fight-concepts/movement-positioning.md)
-- [Crescent Pressure Diagram](../diagrams/crescent-pressure.md)

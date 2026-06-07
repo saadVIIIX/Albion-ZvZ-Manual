@@ -14,7 +14,7 @@ The central lesson is that ranged DPS is not E-only gameplay. Ranged DPS must cr
 
 ## Brimstone / Fire logic
 
-AOU emphasizes that Brimstone-style value is not only the big E.
+The role lesson emphasizes that Brimstone-style value is not only the big E.
 
 Useful lessons:
 
@@ -59,7 +59,7 @@ Caution:
 
 ## Positioning doctrine
 
-AOU specifically warns ranged DPS not to blindly follow the caller like a train.
+Ranged-DPS doctrine warns ranged DPS not to blindly follow the caller like a train.
 
 Ranged DPS should read:
 

@@ -26,4 +26,3 @@ Pick one concept per VOD review. Do not review every concept in one fight.
 - [VOD Review Method](../training/vod-review-method.md)
 - [Micro-Drills](../training/micro-drills.md)
 - [Practical Example Library](../practical-examples/index.md)
-- [Diagram Plan](../diagrams/index.md)

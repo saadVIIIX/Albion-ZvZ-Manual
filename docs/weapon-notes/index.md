@@ -25,6 +25,7 @@ Use this section when you want to answer practical questions:
 | [Healing Weapon Notes](healing-weapons.md) | Holy, Nature, sustain, and pocket-healing notes |
 | [Armor and Defensive Tools](armor-defensive-tools.md) | armor, helmet, boots, cape, potion, and utility logic |
 | [Patch-Sensitive Notes](patch-sensitive-notes.md) | what must be verified before stable release |
+| [Role and Tool Library](role-tool-library.md) | deeper functional reference for role leads and experienced players |
 
 ## Reading rule
 
@@ -33,15 +34,3 @@ Ask what a tool is doing for the zerg before asking whether it is fashionable.
 A firewall example teaches space control. A stopper-tank example teaches route denial. A healer example teaches danger-area coverage. A support example teaches timing and anticipation.
 
 These examples should help players understand **how to use any tool correctly**, not memorize a fixed list of current meta choices.
-
-## Role-family frameworks
-
-These role-family models help readers judge tools by function instead of fashion or damage-meter value.
-
-| Framework | Public lesson | Where to continue |
-|---|---|---|
-| Tank layer model | tanks are not one job; scout, kite, disengage, caller-risk, clump, and stopper responsibilities create different kinds of safety | [Tank / CC Weapon Notes](tank-cc-weapons.md), [Stopper Tanks](../roles/stopper-tanks.md), [Engage Tanks](../roles/engage-tanks.md) |
-| DPS family model | melee burst, melee pressure, ranged pressure, support DPS, and execute tools are judged by timing and function, not only damage meter value | [DPS Weapon Notes](dps-weapons.md), [DPS Overview](../roles/dps-overview.md) |
-| Healer and support model | Holy, Nature, mitigation, mobility support, and enemy disruption each solve different fight problems | [Healing Weapon Notes](healing-weapons.md), [Support Weapon Notes](support-weapons.md), [Healer role pages](../roles/holy-healers.md) |
-
-Advanced readers can use the [Role and Tool Library](role-tool-library.md) for deeper functional reference. Exact cooldowns, numbers, item behavior, and current strength claims remain patch-sensitive.

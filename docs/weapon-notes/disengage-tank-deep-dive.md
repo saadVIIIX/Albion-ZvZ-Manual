@@ -14,7 +14,7 @@ The central lesson is that a disengage tank is not just a tank standing in front
 
 ## Heavy Mace notes
 
-AOU emphasizes Heavy Mace as extremely strong because it combines several rare values:
+The role lesson emphasizes Heavy Mace as extremely strong because it combines several rare values:
 
 - Q silence pool
 - W snare charge for mobility, interrupt, and root

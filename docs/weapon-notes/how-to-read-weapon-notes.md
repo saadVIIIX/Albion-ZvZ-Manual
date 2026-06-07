@@ -58,6 +58,6 @@ Usually stable:
 - tanks should stop paths before enemy damage lands
 - weapons should create value for the zerg, not only personal meter value
 
-## Rule
+## When a note is incomplete
 
-If a page does not have enough reliable detail, say so. Do not fill gaps with fake certainty. Also do not turn every weapon example into a source footnote when the point is simply to teach good ZvZ behavior.
+Some tools need more current verification before they become build advice. When a page says an exact value or current strength claim should be checked, treat that as a build-prep reminder, not as the main lesson.

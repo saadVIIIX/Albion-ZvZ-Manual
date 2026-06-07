@@ -68,11 +68,10 @@ nav:
       - Calling Styles: calling-styles/index.md
       - Practical Examples: practical-examples/index.md
       - Training: training/index.md
-      - Diagrams: diagrams/index.md
   - Formation Ledger: workbooks/index.md
-  - Sources & Updates:
+  - Project Info:
       - Sources / Credit: sources-credit/index.md
-      - Known Limitations: sources-credit/known-limitations.md
+      - Current Scope: sources-credit/current-scope.md
       - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: Live public manual v3.1.3
+  version: Live public manual v3.1.4

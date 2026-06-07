@@ -13,11 +13,11 @@
 - [x] GitHub Pages enabled with GitHub Actions.
 - [x] Deploy workflow finished successfully.
 - [x] Homepage loads from public URL.
-- [ ] v3.1.3 public scope cleanup pushed.
-- [ ] Live site checked after v3.1.3 deploy.
-- [ ] Sidebar/top navigation checked after v3.1.3 deploy.
-- [ ] Formation Ledger hub checked after v3.1.3 deploy.
-- [ ] Search and mobile layout checked after v3.1.3 deploy.
+- [ ] v3.1.4 public scope cleanup pushed.
+- [ ] Live site checked after v3.1.4 deploy.
+- [ ] Sidebar/top navigation checked after v3.1.4 deploy.
+- [ ] Formation Ledger hub checked after v3.1.4 deploy.
+- [ ] Search and mobile layout checked after v3.1.4 deploy.
 
 ## Formation Ledger publishing
 

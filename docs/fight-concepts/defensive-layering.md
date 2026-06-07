@@ -36,6 +36,8 @@ Examples:
 
 Good defensive timing often starts before the damage appears. If enemy name tags turn together, supports and tanks should already be preparing.
 
+The useful model is simple: identify the next real danger area, cover the path into it, and layer defensive value there before the zerg starts dying.
+
 ## Layering logic
 
 A strong defensive layer usually has:
@@ -61,12 +63,3 @@ For each major enemy engage, mark:
 - [Holy Healers](../roles/holy-healers.md)
 - [Nature Healers](../roles/nature-healers.md)
 - [Danger-Area Healing](../practical-examples/healer-danger-area.md)
-- [Defensive Layering Diagram](../diagrams/defensive-layering.md)
-
-## Tank-layer model
-
-A useful defensive-layer model is: scout first, then kite tanks, then disengage tanks, then caller/danger area, with clump tanks/main body behind that layer. This should be treated as a flexible mental model, not a fixed marching formation.
-
-## Support anticipation
-
-Defensive layers should not be purely reactive. Supports must read enemy pressure before damage lands, especially side-angle bomb squads and off-cooldown engage threats.

@@ -49,5 +49,4 @@ Pause after the kite and before the counter. Ask:
 ## Related pages
 
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
-- [Kite Route / Turn Window Diagram](../diagrams/kite-route-turn-window.md)
 - [Movement and Positioning](../fight-concepts/movement-positioning.md)

@@ -35,6 +35,10 @@ Sometimes a smaller on-time button is better than a big late E.
 - whether W/smaller utility can still land on time
 - whether your utility is enabling kills or chasing meters
 
+## Baseline behavior
+
+Support DPS is neither normal DPS nor pure support. It must bring utility that helps the zerg convert kills while still adding enough damage, pressure, or disruption to justify a DPS slot.
+
 ## Common failures
 
 - chasing damage numbers
@@ -58,7 +62,3 @@ For every engage, answer:
 - [Support Utility Before Damage](../practical-examples/support-utility.md)
 - [Pressure Types](../fight-concepts/pressure-types.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
-
-## Minimum value standard
-
-Support DPS is neither normal DPS nor pure support. It must bring utility that helps the zerg convert kills while still adding enough damage, pressure, or disruption to justify a DPS slot.

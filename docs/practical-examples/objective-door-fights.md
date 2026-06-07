@@ -54,6 +54,5 @@ Before reviewing kills/deaths, draw the door or objective area and mark:
 ## Related pages
 
 - [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
-- [Choke / Door Danger Box Diagram](../diagrams/choke-door-danger-box.md)
 - [Stopper Tanks](../roles/stopper-tanks.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)

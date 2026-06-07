@@ -14,7 +14,7 @@ The Albion ZvZ Manual helps Albion Online players learn large-scale PvP: how to 
 
 </div>
 
-The guide is built through strong source material - especially Khelron teachings - but its purpose is practical: **help the general Albion playerbase understand what to do in fights and why those decisions matter.**
+The guide is built through strong role material - especially Khelron teachings - but its purpose is practical: **help the general Albion playerbase understand what to do in fights and why those decisions matter.**
 
 ## Start by what you need
 
@@ -50,7 +50,7 @@ The guide is built through strong source material - especially Khelron teachings
 | Fight Concepts | positioning, movement, timing, pressure, terrain, and defensive layers |
 | Weapon and Ability Notes | how tools create value, not a fixed list of what everyone must play |
 | Training and VOD Review | how to turn mistakes into drills and role feedback |
-| Formation Ledger | optional structure for groups that want signups, assignments, coverage, and review workflows |
+| Formation Ledger | optional operating tool for signups, party assignment, coverage checks, builds, and drills |
 
 ## Manual first, ledger second
 
@@ -76,4 +76,4 @@ Core educational credit belongs to **Khelron and AO University**. Their teaching
 
 ## Current state
 
-The manual is live and actively maintained. For scope boundaries and future improvements, see [Known Limitations](sources-credit/known-limitations.md).
+The manual is live and actively maintained. For current scope boundaries and future improvements, see [Current Scope](sources-credit/current-scope.md).

@@ -41,4 +41,3 @@ Pick a 10-second period where no major engage happens. Ask who created space or 
 - [Pressure Types](../fight-concepts/pressure-types.md)
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
 - [Crescent Pressure](../calling-styles/crescent-pressure.md)
-- [Crescent Pressure Diagram](../diagrams/crescent-pressure.md)

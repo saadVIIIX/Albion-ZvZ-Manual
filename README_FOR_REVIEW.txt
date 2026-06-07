@@ -1,11 +1,12 @@
-Albion ZvZ Manual - Public Doctrine Integration and Diagram Cleanup
+Albion ZvZ Manual - Public Reader Cleanup v3.1.4
 
-This package updates the live site presentation and scope boundaries:
-- removes visible Great Fire Control Formation subpages from the Formation Ledger nav
-- removes Applied Build Cards / comp-specific build-card branch from the public package for now
-- keeps a small current-package mention on the Formation Ledger hub
-- standardizes public language around Formation Ledger instead of workbook
-- integrates framework/source-recovery material into normal doctrine pages where it fits
-- keeps out-of-place source material in the Doctrine Archive instead of forcing it into the site
+This package cleans the live public reader path:
+- removes leftover source-process wording from normal pages
+- keeps source and privacy standards concise on the Sources / Credit page
+- uses a public Current Scope page
+- removes public diagram pages until visuals are clear enough to help
+- improves First CTA Checklist with field-behavior habits
+- removes an unclear defensive ordering note
+- integrates useful role-family notes into their proper role pages without duplicating them
 
-This is a presentation/publishability update, not a doctrine expansion.
+This is a public-readability update, not a doctrine expansion.

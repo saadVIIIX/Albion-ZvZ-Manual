@@ -5,7 +5,7 @@ Melee pressure and execute roles create threat inside or near enemy space, but t
 
 ## Purpose
 
-Melee DPS can pressure frontlines, execute low targets, punish stuck players, and create danger after enemy cooldowns are spent. These roles are powerful when they time entry correctly.
+Melee DPS can pressure frontlines, execute low targets, punish stuck players, and create danger after enemy cooldowns are spent. These roles are powerful when they time entry correctly. Their value is not only glory kills: melee pressure can strain healers, force movement, drain mana, make enemies spend recovery tools early, and punish players who stay too long.
 
 ## First engage vs counter engage
 
@@ -30,7 +30,3 @@ Deep commits are usually safer on counter-engage than first engage. If your grou
 ## Practice drill
 
 Pause before each melee commit. Ask: is this first engage or counter-engage? What enemy cooldowns are still available? Where is the exit?
-
-## Pressure value over time
-
-Melee pressure is not only about glory kills. Its value can be healer strain, mana drain, psychological pressure, forced movement, and making the enemy spend recovery tools before they want to.

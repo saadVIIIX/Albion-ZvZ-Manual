@@ -15,4 +15,4 @@ Current public names:
 
 This repository is prepared for GitHub Pages through GitHub Actions.
 
-The public site is currently published from this repository's Pages deployment. The v3.1.3 update focuses on public-scope cleanup: removing comp-specific branches from the manual nav, keeping the Formation Ledger as optional tooling, and integrating useful framework material into doctrine pages.
+The public site is currently published from this repository's Pages deployment. The v3.1.4 update focuses on public-scope cleanup: removing comp-specific branches from the manual nav, keeping the Formation Ledger as optional tooling, and integrating useful framework material into doctrine pages.

@@ -62,7 +62,6 @@ Before an objective fight, identify:
 
 - [Movement and Positioning](movement-positioning.md)
 - [Objective / Door Fights](../practical-examples/objective-door-fights.md)
-- [Choke / Door Danger Box](../diagrams/choke-door-danger-box.md)
 - [Stopper Tanks](../roles/stopper-tanks.md)
 
 ## Wall-control rule

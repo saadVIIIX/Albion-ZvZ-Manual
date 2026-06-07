@@ -17,7 +17,7 @@ The key correction is that DPS should not be treated as one generic damage role.
 
 Melee burst weapons tend to hit in a short window and rely on speed, mobility, and clean exit timing.
 
-Weapons discussed in AOU material include:
+Useful examples to read by function include:
 
 - Galatine Pair
 - Kingmaker
@@ -38,7 +38,7 @@ Public lesson:
 
 > Melee burst survival is speed, timing, and leaving the danger point immediately after the hit.
 
-Patch/source caution: historical examples should be treated as **patch-sensitive** unless verified for the current meta.
+Patch caution: historical examples should be treated as **patch-sensitive** unless verified for the current meta.
 
 ## Melee DoT / pressure
 
@@ -51,7 +51,7 @@ Weapons or concepts discussed include:
 - Greataxe, with patch/meta caution
 - Bear Paws
 - Kingmaker or Clarent-style low-cooldown pressure possibilities, depending on use
-- Infinity Blade as another low-cooldown pressure-style example to source-check
+- Infinity Blade as another low-cooldown pressure-style example to verify
 
 Public lesson:
 
@@ -70,7 +70,7 @@ Weapons discussed or tracked include:
 - Weeping
 - Energy Shaper
 
-Additional historically used or source-check ranged burst examples:
+Additional historically used or verify ranged burst examples:
 
 - Rift Glaive
 - Heavy Crossbow
