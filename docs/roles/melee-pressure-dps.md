@@ -39,6 +39,6 @@ Deep commits are usually safer on counter-engage than first engage. If your grou
 
 Pause before each melee commit. Ask: is this first engage or counter-engage? What enemy cooldowns are still available? Where is the exit?
 
-## Batch 3 melee-DoT reinforcement
+## Melee pressure reinforcement
 
 AOU Ep. 16 reinforces that melee DoT/pressure is not about glory. Its value is healer strain, mana drain, psychological pressure, and enemy movement control over time.

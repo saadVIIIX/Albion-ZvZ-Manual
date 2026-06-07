@@ -58,6 +58,6 @@ Track a 15-second period between engages. Count how many safe players created us
 - [Support DPS](../roles/support-dps.md)
 - [Weapon and Ability Notes](../weapon-notes/index.md)
 
-## Batch 3 ranged-DPS pressure reinforcement
+## Ranged-DPS pressure reinforcement
 
 AOU Ep. 15 reinforces that ranged DPS should not disappear between major E cooldowns. Brimstone/Fire, Longbow, and Siege-style play all gain value from Q/W pressure, angle discipline, and active space control.

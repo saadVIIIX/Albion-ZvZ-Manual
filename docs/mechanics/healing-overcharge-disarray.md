@@ -3,7 +3,7 @@
 
 <div class="zvz-status">
 <strong>Status:</strong> Draft<br>
-<strong>Primary source layer:</strong> Albion Wiki mechanics reference + workbook healer doctrine<br>
+<strong>Primary source layer:</strong> Albion Wiki mechanics reference + healer doctrine<br>
 <strong>Patch sensitivity:</strong> High<br>
 <strong>Audience:</strong> Healers, officers
 </div>

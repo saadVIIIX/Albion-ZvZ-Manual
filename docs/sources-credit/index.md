@@ -1,5 +1,5 @@
 ---
-status: Public Beta clarity pass
+status: Public reference
 audience: Public readers / maintainers
 source_layer: Project synthesis
 patch_sensitivity: Low
@@ -16,7 +16,7 @@ Its purpose is to help Albion players learn ZvZ through practical role guides, f
 
 Core educational credit for the AO University doctrine belongs to **Khelron** and **AO University**.
 
-This project does not claim ownership of Khelron's teachings. It organizes and applies those teachings, along with project synthesis and workbook application, into a public manual for the wider Albion community.
+This project does not claim ownership of Khelron's teachings. It organizes and applies those teachings, along with project synthesis and Formation Ledger application, into a public manual for the wider Albion community.
 
 ## How sources are used
 
@@ -34,13 +34,13 @@ Normal teaching pages do not need to credit every example individually. The guid
 | Patch notes / test-server / balance-change references | current item, ability, or mechanics checks when exact values matter |
 | Community references | terminology, common gaps, review context |
 | EVE-style documentation references | structure and information architecture |
-| Workbook application | comp-specific operating tools |
+| Formation Ledger application | comp-specific operating tools |
 
 ## What is public doctrine vs project synthesis?
 
 **Public doctrine** is the broader ZvZ teaching extracted from AO University/Khelron material.
 
-**Project synthesis** is our organized interpretation: learning paths, page structure, workbook packages, diagrams, templates, and review workflows.
+**Project synthesis** is our organized interpretation: learning paths, page structure, Formation Ledger packages, diagrams, templates, and review workflows.
 
 Both should be useful, but they should not be confused.
 

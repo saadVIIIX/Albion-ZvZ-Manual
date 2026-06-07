@@ -16,10 +16,10 @@ Your job is to turn doctrine into stable habits and clean tools.
 
 1. [VOD Review Method](../training/vod-review-method.md)
 2. [Player Development Ladder](../training/player-development-ladder.md)
-3. [Page Quality Checklist](../maintainers/page-quality-checklist.md)
-4. [Comp Package Standard](../workbooks/comp-package-standard.md)
-5. [Publishing Roadmap](../maintainers/publishing-roadmap.md)
-6. [Source Policy](../maintainers/source-policy.md)
+3. [Concept-to-Drill Map](../training/concept-to-drill-map.md)
+4. [Caller / Officers](../roles/caller-officers.md)
+5. [Formation Ledger](../workbooks/index.md)
+6. [Known Limitations](../sources-credit/known-limitations.md)
 
 ## Practical next action
 

@@ -38,14 +38,6 @@ Ask:
 - What mistake ruins my role?
 - What related fight concept should I learn next?
 
-## Keep comp-specific builds separate
-
-General role pages should teach behavior. Specific builds and weapons should live in:
-
-- [Weapon and Ability Notes](../weapon-notes/index.md)
-- [Applied Build Cards](../build-cards/index.md)
-- [Workbooks and Tools](../workbooks/index.md)
-
 ## Related learning paths
 
 - [New Line Member](../learning-paths/new-line-member.md)

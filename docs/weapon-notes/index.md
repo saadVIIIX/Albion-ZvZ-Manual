@@ -1,5 +1,5 @@
 ---
-status: Public Beta weapon-notes clarity pass
+status: public site weapon-notes clarity pass
 audience: All players / role leads
 source_layer: Project synthesis supported by AO University and project review
 patch_sensitivity: Medium
@@ -42,8 +42,14 @@ A firewall example teaches space control. A stopper-tank example teaches route d
 
 These examples should help players understand **how to use any tool correctly**, not memorize a fixed list of current meta choices.
 
-## Source status belongs deeper
+## Role-family frameworks
 
-Normal teaching pages intentionally avoid repeating source-confidence labels under every example. The source foundation and recovery trail are still preserved in [Sources and Credit](../sources-credit/index.md), the [Source Recovery Log](../sources-credit/source-recovery-log.md), and the advanced [Role and Tool Library](role-tool-library.md).
+These role-family models are integrated into the public doctrine so they teach behavior instead of sitting as raw source-recovery pages.
 
-Exact cooldowns, numbers, item behavior, and current strength claims remain patch-sensitive. The general decision-making lesson usually remains useful even when item details change.
+| Framework | Public lesson | Where to continue |
+|---|---|---|
+| Tank layer model | tanks are not one job; scout, kite, disengage, caller-risk, clump, and stopper responsibilities create different kinds of safety | [Tank / CC Weapon Notes](tank-cc-weapons.md), [Stopper Tanks](../roles/stopper-tanks.md), [Engage Tanks](../roles/engage-tanks.md) |
+| DPS family model | melee burst, melee pressure, ranged pressure, support DPS, and execute tools are judged by timing and function, not only damage meter value | [DPS Weapon Notes](dps-weapons.md), [DPS Overview](../roles/dps-overview.md) |
+| Healer and support model | Holy, Nature, mitigation, mobility support, and enemy disruption each solve different fight problems | [Healing Weapon Notes](healing-weapons.md), [Support Weapon Notes](support-weapons.md), [Healer role pages](../roles/holy-healers.md) |
+
+Advanced readers can use the [Role and Tool Library](role-tool-library.md) for deeper functional reference. Exact cooldowns, numbers, item behavior, and current strength claims remain patch-sensitive.

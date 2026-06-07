@@ -26,10 +26,10 @@ The guide is built through strong source material - especially Khelron / AO Univ
 
 ## Start by what you need
 
-<div class="ao-card-grid">
+<div class="ao-card-grid compact">
 <div class="ao-card blue">
 <h3>New to ZvZ</h3>
-<p>Start with basic CTA habits, call reading, and role choice before worrying about every weapon.</p>
+<p>Start with CTA habits, call reading, and role choice before worrying about every weapon.</p>
 <p><a href="start-here/">Read Start Here</a></p>
 </div>
 <div class="ao-card blue">
@@ -43,9 +43,9 @@ The guide is built through strong source material - especially Khelron / AO Univ
 <p><a href="fight-concepts/">Study Fight Concepts</a></p>
 </div>
 <div class="ao-card accent">
-<h3>Using a workbook</h3>
+<h3>Using the Formation Ledger</h3>
 <p>The Formation Ledger is optional tooling for signups, party assignment, coverage, builds, and drills.</p>
-<p><a href="workbooks/">Open Workbook Hub</a></p>
+<p><a href="workbooks/">Open Formation Ledger Hub</a></p>
 </div>
 </div>
 
@@ -58,16 +58,16 @@ The guide is built through strong source material - especially Khelron / AO Univ
 | Fight Concepts | positioning, movement, timing, pressure, terrain, and defensive layers |
 | Weapon and Ability Notes | how tools create value, not a fixed list of what everyone must play |
 | Training and VOD Review | how to turn mistakes into drills and role feedback |
-| Formation Ledger | optional structures for groups that want signups, packages, or review workflows |
+| Formation Ledger | optional structure for groups that want signups, assignments, coverage, and review workflows |
 
-## Manual first, tools second
+## Manual first, ledger second
 
-The manual is general Albion ZvZ education. The workbook is optional tooling for groups that want signups, roles, party assignment, build libraries, or comp packages.
+The manual is general Albion ZvZ education. The **Albion ZvZ Formation Ledger** is optional tooling for groups that want a shared sheet for signups, party assignment, role coverage, build references, and training notes.
 
-The current workbook is the **Albion ZvZ Formation Ledger - Control Comp Public Copy**, built for the **Great Fire Control Formation**. It is a flagship applied package, not the whole manual and not a claim that every group should play that comp.
+The current public ledger is the **Control Comp Public Copy** and currently supports the **Great Fire Control Formation**. Treat it as an applied example and operating tool, not as a claim that every group should play that formation.
 
 <div class="ao-callout blue">
-<strong>Live workbook:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger - Control Comp Public Copy</a>. Make your own copy before editing.
+<strong>Live Formation Ledger:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger - Control Comp Public Copy</a>. Make your own copy before editing.
 </div>
 
 ## How to read weapon examples
@@ -80,8 +80,8 @@ Exact values, cooldowns, item behavior, and current strength claims should still
 
 ## Credits
 
-Core educational credit belongs to **Khelron and AO University**. Their teachings are a major backbone for this project. This site organizes, applies, and expands those lessons into a public manual, optional workbook structure, and source archive for the Albion community.
+Core educational credit belongs to **Khelron and AO University**. Their teachings are a major backbone for this project. This site organizes and applies those lessons into a public manual, optional Formation Ledger structure, and source-preservation archive for the Albion community.
 
-## Project status
+## Current state
 
-This is a live public manual with an active feedback/update cycle. See [Release Status](public-beta/) and [Known Limitations](review/known-limitations.md) for the current state without cluttering the main learning path.
+The manual is live and actively maintained. For scope boundaries and future improvements, see [Known Limitations](sources-credit/known-limitations.md).

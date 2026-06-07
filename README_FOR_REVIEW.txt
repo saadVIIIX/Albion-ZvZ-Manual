@@ -1,15 +1,11 @@
-Albion ZvZ Manual - public presentation cleanup package
+Albion ZvZ Manual - Public Scope Cleanup
 
-Current public names:
-- Albion ZvZ Manual
-- The Field Manual for Large-Scale Albion Warfare
-- Albion ZvZ Formation Ledger - Control Comp Public Copy
-- Great Fire Control Formation
+This package updates the live site presentation and scope boundaries:
+- removes visible Great Fire Control Formation subpages from the Formation Ledger nav
+- removes Applied Build Cards / comp-specific build-card branch from the public package for now
+- keeps a small current-package mention on the Formation Ledger hub
+- standardizes public language around Formation Ledger instead of workbook
+- integrates framework/source-recovery material into normal doctrine pages where it fits
+- keeps out-of-place source material in the Doctrine Archive instead of forcing it into the site
 
-Live manual:
-https://saadviiix.github.io/Albion-ZvZ-Manual/
-
-Live Formation Ledger:
-https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing
-
-This v3.1 pass focuses on public presentation: stronger visual identity, cleaner navigation, less beta/WIP language in the reader path, and the live ledger link.
+This is a presentation/publishability update, not a doctrine expansion.

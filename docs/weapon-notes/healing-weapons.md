@@ -1,5 +1,5 @@
 ---
-status: Public Beta weapon-notes clarity pass
+status: public site weapon-notes clarity pass
 audience: Healers / maintainers
 source_layer: AO University / project synthesis
 patch_sensitivity: High
@@ -66,7 +66,6 @@ A strong zerg needs the healer package to cover:
 - [Holy Healers](../roles/holy-healers.md)
 - [Nature Healers](../roles/nature-healers.md)
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
-- [Great Fire Control Healer Package](../workbooks/control-comp/healer-package.md)
 
 ## Further reference
 

@@ -64,6 +64,6 @@ If damage consistently lands after enemy response, DPS timing is late.
 - [DPS Damage Must Land on Zero](../practical-examples/dps-timing-example.md)
 - [Q/W Pressure Floor](qw-pressure.md)
 
-## Batch 4 melee-burst timing reinforcement
+## Melee-burst timing reinforcement
 
 AOU Ep. 17 reinforces that melee burst timing is especially punishing. A late ranged DPS player may simply miss damage; a late melee burst player may enter exactly where the enemy counter-engage lands.

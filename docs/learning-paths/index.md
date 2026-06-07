@@ -21,7 +21,6 @@ Use this when you do not know where to start.
 | [Healer](healer.md) | Holy/Nature players | heal the danger area and support the route |
 | [Tank / Support](tank-support.md) | engage, stopper, support, defensive players | create or deny danger before damage lands |
 | [Officer / Role Lead](officer-role-lead.md) | callers, officers, trainers | turn doctrine into drills |
-| [Workbook Maintainer](workbook-maintainer.md) | people managing live tools | keep workbook/site/archive aligned |
 
 ## How to use a path
 

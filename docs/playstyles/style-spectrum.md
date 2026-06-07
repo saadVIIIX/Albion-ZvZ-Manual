@@ -24,4 +24,4 @@ Albion fights rarely fit one pure label. A zerg may bomb, brawl, kite, control, 
 
 These are literacy labels, not complete comp definitions.
 
-The goal is to understand fight behavior, not to claim every style has a finished workbook package.
+The goal is to understand fight behavior, not to claim every style has a finished Formation Ledger package.

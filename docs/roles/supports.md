@@ -73,11 +73,10 @@ For each enemy engage, mark:
 - [Stopper Tanks](stopper-tanks.md)
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
 - [Tank / Support Learning Path](../learning-paths/tank-support.md)
-- [Great Fire Control Support Package](../workbooks/control-comp/support-package.md)
 
-## AOU Batch 2 support taxonomy
+## Support family model
 
-AOU Ep. 11 splits supports into three useful public categories:
+Supports can be split into three useful public categories:
 
 | Support family | Main purpose |
 |---|---|
@@ -87,6 +86,6 @@ AOU Ep. 11 splits supports into three useful public categories:
 
 This prevents "support" from becoming one vague label.
 
-## Batch 4 support reinforcement
+## Support anticipation
 
-AOU Ep. 20 reinforces that supports are direct counters to enemy pressure. Supports must anticipate enemy movement, watch side angles and bomb squads, prioritize real danger, and often help keep the tank layer alive.
+Supports are direct counters to enemy pressure. Supports must anticipate enemy movement, watch side angles and bomb squads, prioritize real danger, and often help keep the tank layer alive.

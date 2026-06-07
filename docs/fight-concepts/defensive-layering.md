@@ -71,10 +71,10 @@ For each major enemy engage, mark:
 - [Danger-Area Healing](../practical-examples/healer-danger-area.md)
 - [Defensive Layering Diagram Brief](../diagrams/defensive-layering.md)
 
-## Batch 2 tank-layer addition
+## Tank-layer model
 
-AOU Ep. 9 gives a useful defensive-layer model: scout first, then kite tanks, then disengage tanks, then caller/danger area, with clump tanks/main body behind that layer. This should be treated as a flexible mental model, not a fixed marching formation.
+A useful defensive-layer model is: scout first, then kite tanks, then disengage tanks, then caller/danger area, with clump tanks/main body behind that layer. This should be treated as a flexible mental model, not a fixed marching formation.
 
-## Batch 4 support anticipation reinforcement
+## Support anticipation reinforcement
 
-AOU Ep. 20 reinforces that defensive layers should not be purely reactive. Supports must read enemy pressure before damage lands, especially side-angle bomb squads and off-cooldown engage threats.
+Defensive layers should not be purely reactive. Supports must read enemy pressure before damage lands, especially side-angle bomb squads and off-cooldown engage threats.

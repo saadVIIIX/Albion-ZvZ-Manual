@@ -1,5 +1,5 @@
 ---
-status: Public Beta weapon-notes clarity pass
+status: public site weapon-notes clarity pass
 audience: Tanks / supports / maintainers
 source_layer: AO University / project synthesis
 patch_sensitivity: High

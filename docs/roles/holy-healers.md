@@ -72,13 +72,12 @@ If not, the failure happened before the healing button was needed.
 - [Nature Healers](nature-healers.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
-- [Great Fire Control Healer Package](../workbooks/control-comp/healer-package.md)
 - [Healer Learning Path](../learning-paths/healer.md)
 
-## Batch 2 burst-healer reinforcement
+## Burst-healer reinforcement
 
-AOU Ep. 11 frames burst healers as emergency healers for clumps and danger areas. Holy healers must understand where enemy damage is likely to land, not only react to party-frame HP after the fact.
+Burst healers should be understood as emergency healers for clumps and danger areas. Holy healers must understand where enemy damage is likely to land, not only react to party-frame HP after the fact.
 
-## Batch 4 Holy-healer reinforcement
+## Single-target saving
 
-AOU Ep. 19 strongly argues that Holy healers should not rely only on AoE clump healing. Clumps already receive many AoE heals; single-target saving can be the difference between a low tank/caller surviving or dying.
+Holy healers should not rely only on AoE clump healing. Clumps already receive many AoE heals; single-target saving can be the difference between a low tank/caller surviving or dying.

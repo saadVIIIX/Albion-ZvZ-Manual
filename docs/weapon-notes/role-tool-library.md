@@ -1,19 +1,16 @@
 ---
-status: Public Beta source-reference pass
+status: public site public reference pass
 audience: Role leads / maintainers / advanced reviewers
 source_layer: AO University / project synthesis
 patch_sensitivity: Medium
 last_reviewed: 2026-06-07
 ---
 
-# Advanced Role and Tool Library
+# Role and Tool Library
 
-> **Reader note:** This page is an advanced functional reference. It belongs with Weapon and Ability Notes because it helps players understand what tools do in fights. It is not meant to be a source-extraction database or a current-meta shopping list.
+This is an advanced functional reference for role leads and players who want deeper examples of how tools create value in ZvZ.
 
-
-This is the source-reference library for deeper AO University role, weapon, armor, and support-tool notes.
-
-It is **not** the first reader path. New players should begin with [Start Here](../start-here/index.md), [Role Guides](../roles/index.md), and [Fight Concepts](../fight-concepts/index.md). Use this library when you want to audit where deeper tool examples came from or prepare role-lead review material.
+It is **not** a current-meta shopping list and not a required first read. New players should begin with [Start Here](../start-here/index.md), [Role Guides](../roles/index.md), and [Fight Concepts](../fight-concepts/index.md).
 
 ## How to use this library
 
@@ -21,15 +18,6 @@ It is **not** the first reader path. New players should begin with [Start Here](
 - Use these pages when you need deeper role/tool detail.
 - Treat weapon names as examples of function, not as current-meta prescriptions.
 - Verify exact item behavior before turning any example into a live build recommendation.
-
-## Framework pages
-
-| Page | Use |
-|---|---|
-| [AOU Extracted Weapon Index](aou-extracted-index.md) | source-backed tool map and recovery status |
-| [AOU Batch 2 Role Taxonomy](aou-batch-2-role-taxonomy.md) | tank/DPS/healer/support taxonomy |
-| [AOU Batch 3 Specialist Role Execution](aou-batch-3-specialist-roles.md) | specialist execution map |
-| [AOU Batch 4 Final Role-Tool Recovery](aou-batch-4-final-role-tools.md) | current role/tool recovery summary |
 
 ## Tank pages
 
@@ -56,12 +44,6 @@ It is **not** the first reader path. New players should begin with [Start Here](
 | [Healer Deep Dive](healer-deep-dive.md) | single-target saving, Holy/Nature value, heal-forward rule |
 | [Supports Deep Dive](supports-deep-dive.md) | anticipation, direct-counter support, HVT positioning |
 
-## Backlog
-
-| Page | Use |
-|---|---|
-| [Weapon Extraction Backlog](extraction-backlog.md) | under-extracted weapon families and future source needs |
-
 ## Rule
 
-This library preserves depth. The public reader path should still begin with role behavior, fight concepts, and functional examples.
+This library preserves depth while keeping the main reader path focused on role behavior, fight concepts, and functional examples.

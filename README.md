@@ -2,24 +2,17 @@
 
 *The Field Manual for Large-Scale Albion Warfare*
 
-This repository contains the MkDocs source for the public Albion ZvZ Manual.
+This repository contains the public website source for the Albion ZvZ Manual.
 
-## Public names
+Current public names:
 
 - **Website/manual:** Albion ZvZ Manual
 - **Subtitle:** The Field Manual for Large-Scale Albion Warfare
-- **Workbook/tooling:** Albion ZvZ Formation Ledger - Control Comp Public Copy
-- **Current comp package:** Great Fire Control Formation
-
-## Live resources
-
-- Manual: https://saadviiix.github.io/Albion-ZvZ-Manual/
-- Formation Ledger: https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing
+- **Formation Ledger:** Albion ZvZ Formation Ledger — Control Comp Public Copy
+- **Current live ledger package:** Great Fire Control Formation
 
 ## Publishing
 
 This repository is prepared for GitHub Pages through GitHub Actions.
 
-Suggested repository name: `albion-zvz-manual`.
-
-After uploading the repository contents, enable Pages with GitHub Actions as the source and let the deploy workflow run.
+The public site is currently published from this repository's Pages deployment. The v3.1.2 update focuses on public-scope cleanup: removing comp-specific branches from the manual nav, keeping the Formation Ledger as optional tooling, and integrating useful framework material into doctrine pages.

@@ -59,10 +59,10 @@ Pick a 15-second period between major engages and ask:
 - [Ranged DPS](../roles/ranged-dps.md)
 - [Positional Pressure Example](../practical-examples/positional-pressure.md)
 
-## Batch 3 melee-DoT pressure reinforcement
+## Melee pressure reinforcement
 
 AOU Ep. 16 frames melee DoT pressure as accumulated healer strain and mana pressure. It is not only about direct kills; it can force enemy healers to move, spend, panic, or abandon the right position.
 
-## Batch 4 support-DPS utility reinforcement
+## Support-DPS utility reinforcement
 
 AOU Ep. 18 reinforces that pressure can come from utility, not only raw damage. Pierce, stun, anti-heal, purge, interruption, and timing can be the reason allied damage converts.

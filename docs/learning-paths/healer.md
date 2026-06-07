@@ -18,7 +18,7 @@ Your job is to heal the real danger area, not only the safest party frame.
 2. [Nature Healers](../roles/nature-healers.md)
 3. [Defensive Layering](../fight-concepts/defensive-layering.md)
 4. [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
-5. [Great Fire Control Healer Package](../workbooks/control-comp/healer-package.md)
+5. [Healing Weapon Notes](../weapon-notes/healing-weapons.md)
 6. [Danger-Area Healing Diagram Brief](../diagrams/danger-area-healing.md)
 
 ## Practical next action

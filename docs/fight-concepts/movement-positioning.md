@@ -1,5 +1,5 @@
 ---
-status: Public Beta clarity pass
+status: Public guide
 audience: All players / role leads
 source_layer: AO University / project synthesis
 patch_sensitivity: Low

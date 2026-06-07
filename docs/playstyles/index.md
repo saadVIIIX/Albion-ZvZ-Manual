@@ -1,5 +1,5 @@
 ---
-status: Beta cleanup
+status: Public guide
 audience: All players / role leads
 source_layer: AO University / project synthesis
 patch_sensitivity: Low
@@ -39,20 +39,16 @@ Understanding style helps you avoid using the wrong response.
 
 ## Important limitation
 
-These pages are **not finished comp sheets** and do not promise future workbook packages.
-
-The current workbook only supports the Great Fire Control Formation package. Other fight style pages are public literacy pages unless later supported by reliable data.
+These pages are **fight-literacy pages**, not finished comp sheets. They teach how different styles behave so players can understand fights without assuming every style has a finished Formation Ledger package.
 
 ## Related pages
 
 - [Fight Concepts](../fight-concepts/index.md)
 - [DPS Overview](../roles/dps-overview.md)
 - [Weapon and Ability Notes](../weapon-notes/index.md)
-- [Workbooks and Tools](../workbooks/index.md)
+- [Formation Ledger](../workbooks/index.md)
 
-## Batch 1 fight-style literacy additions
+## Fight-style literacy additions
 
 From the first targeted AOU transcript batch:
 
-- [Ranged Zerg Literacy](ranged-zerg-literacy.md)
-- [Melee Zerg Literacy](melee-zerg-literacy.md)

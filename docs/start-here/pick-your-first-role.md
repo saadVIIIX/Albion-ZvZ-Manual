@@ -52,7 +52,7 @@ Tank is a powerful learning path, but bad tank positioning can lose fights quick
 
 Switching every CTA slows learning. Even changing from one DPS style to another can change range, timing, mobility, defensive habits, and target logic.
 
-A good workbook or signup tool should respect role preference and backup roles, but should not randomly force players into roles they cannot learn properly.
+A good Formation Ledger or signup tool should respect role preference and backup roles, but should not randomly force players into roles they cannot learn properly.
 
 ## Related pages
 

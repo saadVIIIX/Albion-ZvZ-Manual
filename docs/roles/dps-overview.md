@@ -51,7 +51,7 @@ Learn:
 
 ## Weapon-specific notes
 
-Specific weapons and abilities belong in [Weapon and Ability Notes](../weapon-notes/index.md) or applied workbook packages.
+Specific weapons and abilities belong in [Weapon and Ability Notes](../weapon-notes/index.md). Formation-specific build details belong inside the Formation Ledger.
 
 ## Related pages
 
@@ -61,9 +61,9 @@ Specific weapons and abilities belong in [Weapon and Ability Notes](../weapon-no
 - [DPS Timing](../fight-concepts/dps-timing.md)
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
 
-## AOU Batch 2 DPS taxonomy
+## DPS family model
 
-AOU Ep. 10 gives a stronger public taxonomy:
+A useful DPS taxonomy is:
 
 | DPS family | What to judge |
 |---|---|
@@ -74,11 +74,11 @@ AOU Ep. 10 gives a stronger public taxonomy:
 
 Do not judge every DPS weapon only by raw damage.
 
-## Batch 4 melee-burst and support-DPS completion
+## Timing and utility completion
 
-AOU Ep. 17 and Ep. 18 complete the current DPS recovery pass:
+Advanced DPS review adds two important lessons:
 
-| DPS family | Batch 4 addition |
+| DPS family | Added lesson |
 |---|---|
 | Melee burst | punctuality, sidekick rule, off-cooldown clapper value, exit discipline |
 | Support DPS | utility plus damage, role-focused gearing, timing and exit rule |

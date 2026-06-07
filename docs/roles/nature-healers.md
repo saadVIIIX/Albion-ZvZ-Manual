@@ -1,7 +1,7 @@
 ---
 status: Review draft
 audience: Healers / role leads
-source_layer: AO University / workbook application
+source_layer: AO University / Formation Ledger application
 patch_sensitivity: Low
 last_reviewed: 2026-06-05
 ---
@@ -74,15 +74,14 @@ Review every major Nature zone and ask:
 ## Related pages
 
 - [Holy Healers](holy-healers.md)
-- [Great Fire Control Healer Package](../workbooks/control-comp/healer-package.md)
 - [Kite as a Unit](../practical-examples/kite-as-unit.md)
 - [Danger-Area Healing Diagram Brief](../diagrams/danger-area-healing.md)
 - [Healer Learning Path](../learning-paths/healer.md)
 
-## Batch 2 sustain-healer reinforcement
+## Sustain-healer reinforcement
 
-AOU Ep. 11 strongly supports the idea that HoT/sustain healers are not filler. Sustain healers are responsible for flank healing, skirmish recovery, stabilization after pressure, and keeping the zerg active between burst-heal moments.
+HoT/sustain healers are not filler. Sustain healers are responsible for flank healing, skirmish recovery, stabilization after pressure, and keeping the zerg active between burst-heal moments.
 
-## Batch 4 Nature-healer reinforcement
+## Nature route and recovery value
 
-AOU Ep. 19 reinforces that Nature/sustain healing supports recovery, flanks, routes, and stabilization. Nature value should be taught as part of the healer package, not as filler behind Holy healing.
+Nature/sustain healing supports recovery, flanks, routes, and stabilization. Nature value should be taught as part of the healer package, not as filler behind Holy healing.

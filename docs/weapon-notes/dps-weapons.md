@@ -1,5 +1,5 @@
 ---
-status: Public Beta weapon-notes clarity pass
+status: public site weapon-notes clarity pass
 audience: DPS players / maintainers
 source_layer: AO University / project synthesis
 patch_sensitivity: High
@@ -10,7 +10,7 @@ last_reviewed: 2026-06-07
 
 This page is a public literacy index for DPS weapons and damage roles.
 
-It is intentionally not a full current-meta list and not a workbook comp sheet.
+It is intentionally not a full current-meta list and not a Formation Ledger comp sheet.
 
 Read each example as a lesson in function: pressure, burst timing, area denial, utility alignment, or conversion.
 
@@ -39,7 +39,7 @@ Useful public lessons:
 - ranged DPS should not be passive between major cooldowns
 - pressure tools should help the zerg, not only personal meter value
 
-**Comp-specific caution:** Great Fire/Brimstone details should be contained inside the Great Fire Control Formation package when discussing exact build role.
+**Comp-specific caution:** exact build roles belong in the Formation Ledger, not in the general weapon-note page.
 
 ### Firewall
 
@@ -121,7 +121,7 @@ These families should receive source-backed notes later:
 - additional ranged burst weapons
 - additional melee clap weapons
 
-Do not fill these with guesswork. Use [Weapon Extraction Backlog](extraction-backlog.md).
+Do not fill these with guesswork. Save deeper source-recovery work for a later targeted update.
 
 ## Related pages
 
@@ -129,7 +129,6 @@ Do not fill these with guesswork. Use [Weapon Extraction Backlog](extraction-bac
 - [Ranged DPS](../roles/ranged-dps.md)
 - [Support DPS](../roles/support-dps.md)
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
-- [Applied Build Cards](../build-cards/index.md)
 
 ## Further reference
 

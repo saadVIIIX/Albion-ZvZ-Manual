@@ -1,5 +1,5 @@
 ---
-status: Public Beta source-check notes
+status: public site source-check notes
 audience: Healers / supports / role leads
 source_layer: AO University + source-check review feedback
 patch_sensitivity: High
@@ -106,4 +106,4 @@ This page should feed:
 
 ## Review note
 
-Some examples added during Beta Candidate review are source-check additions from practical Albion usage. Keep them patch-sensitive until verified against current item behavior.
+Some examples added during Release Candidate review are source-check additions from practical Albion usage. Keep them patch-sensitive until verified against current item behavior.

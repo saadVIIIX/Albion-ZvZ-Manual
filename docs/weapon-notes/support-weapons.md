@@ -1,5 +1,5 @@
 ---
-status: Public Beta weapon-notes clarity pass
+status: public site weapon-notes clarity pass
 audience: Supports / support DPS / maintainers
 source_layer: AO University / project synthesis
 patch_sensitivity: High
@@ -49,7 +49,7 @@ Common mistakes:
 ### Rootbound
 
 **Role family:** defensive support / stabilizer  
-**General value:** Rootbound-style support is a teaching example for defensive stability, reset support, and keeping the zerg functional through pressure. Applied package priority belongs in the workbook.
+**General value:** Rootbound-style support is a teaching example for defensive stability, reset support, and keeping the zerg functional through pressure. Applied package priority belongs in the Formation Ledger.
 
 ### Truebolt
 

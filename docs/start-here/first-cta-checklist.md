@@ -1,7 +1,7 @@
 ---
 status: Draft
 audience: New players
-source_layer: Workbook application
+source_layer: Formation Ledger application
 patch_sensitivity: Low
 last_reviewed: 2026-06-05
 ---

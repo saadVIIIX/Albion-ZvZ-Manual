@@ -1,166 +1,33 @@
 ---
-status: Public Beta v3.0.4
-audience: Public readers / reviewers
-source_layer: Generated from navigation
+status: Public site
+audience: Public readers
+source_layer: Project synthesis
 patch_sensitivity: Low
 last_reviewed: 2026-06-07
 ---
 
 # Site Map
 
-This site map mirrors the main public navigation.
+Use this page when you want the full public structure at a glance.
+
+## Core reader path
 
 - [Home](index.md)
-- [Site Map](site-map.md)
+- [Start Here](start-here/index.md)
+- [Role Guides](roles/index.md)
+- [Fight Concepts](fight-concepts/index.md)
+- [Field Tools](weapon-notes/index.md)
+- [Formation Ledger](workbooks/index.md)
+- [Sources / Credit](sources-credit/index.md)
 
-## Public Beta v3.0.4
+## Recommended route
 
-- [Overview](public-beta/index.md)
-- [Review Route](public-beta/review-route.md)
-- [Release Notes](public-beta/release-notes.md)
-- [Package Manifest](public-beta/package-manifest.md)
-- [Go / No-Go Checklist](public-beta/go-no-go-checklist.md)
+1. [Start Here](start-here/index.md)
+2. [Pick Your First Role](start-here/pick-your-first-role.md)
+3. [Role Guides](roles/index.md)
+4. [Movement and Positioning](fight-concepts/movement-positioning.md)
+5. [Counter-Engage Windows](fight-concepts/counter-engage-windows.md)
+6. [Weapon and Ability Notes](weapon-notes/index.md)
+7. [Training](training/index.md)
 
-## Start Here
-
-- [Overview](start-here/index.md)
-- [New to ZvZ](start-here/new-to-zvz.md)
-- [Ten Rules Before CTA](start-here/ten-rules-before-cta.md)
-- [Pick Your First Role](start-here/pick-your-first-role.md)
-- [How to Read Calls](start-here/how-to-read-calls.md)
-- [First CTA Checklist](start-here/first-cta-checklist.md)
-
-## Learning Paths
-
-- [Overview](learning-paths/index.md)
-- [New Line Member](learning-paths/new-line-member.md)
-- [Ranged DPS](learning-paths/ranged-dps.md)
-- [Healer](learning-paths/healer.md)
-- [Tank / Support](learning-paths/tank-support.md)
-- [Officer / Role Lead](learning-paths/officer-role-lead.md)
-
-## Role Guides
-
-- [Overview](roles/index.md)
-- [All Players](roles/all-players.md)
-- [DPS Overview](roles/dps-overview.md)
-- [Ranged DPS](roles/ranged-dps.md)
-- [Melee Pressure / Execute DPS](roles/melee-pressure-dps.md)
-- [Support DPS](roles/support-dps.md)
-- [Holy Healers](roles/holy-healers.md)
-- [Nature Healers](roles/nature-healers.md)
-- [Supports](roles/supports.md)
-- [Engage Tanks](roles/engage-tanks.md)
-- [Stopper Tanks](roles/stopper-tanks.md)
-- [Caller / Officers](roles/caller-officers.md)
-- [Scouts / Info](roles/scouts-info.md)
-
-## Fight Concepts
-
-- [Overview](fight-concepts/index.md)
-- [Movement and Positioning](fight-concepts/movement-positioning.md)
-- [Counter-Engage Windows](fight-concepts/counter-engage-windows.md)
-- [Pressure Types](fight-concepts/pressure-types.md)
-- [Defensive Layering](fight-concepts/defensive-layering.md)
-- [Terrain and Geometry](fight-concepts/terrain-geometry.md)
-- [DPS Timing](fight-concepts/dps-timing.md)
-- [Q/W Pressure Floor](fight-concepts/qw-pressure.md)
-- [High-Value Targets](fight-concepts/high-value-targets.md)
-
-## Fight Style Literacy
-
-- [Overview](playstyles/index.md)
-- [Style Spectrum](playstyles/style-spectrum.md)
-- [Bomb / Clap Concepts](playstyles/bomb-clap.md)
-- [Brawl Concepts](playstyles/brawl.md)
-- [Kite / Control Concepts](playstyles/kite-control.md)
-- [Ranged Pressure Concepts](playstyles/ranged-pressure.md)
-- [Melee Pressure Concepts](playstyles/melee-pressure.md)
-- [Style Counters](playstyles/style-counters.md)
-
-## Weapon and Ability Notes
-
-- [Overview](weapon-notes/index.md)
-- [How to Read Weapon Notes](weapon-notes/how-to-read-weapon-notes.md)
-- [Role and Tool Library](weapon-notes/role-tool-library.md)
-- [DPS Weapon Notes](weapon-notes/dps-weapons.md)
-- [Tank / CC Weapon Notes](weapon-notes/tank-cc-weapons.md)
-- [Support Weapon Notes](weapon-notes/support-weapons.md)
-- [Healing Weapon Notes](weapon-notes/healing-weapons.md)
-- [Armor and Defensive Tools](weapon-notes/armor-defensive-tools.md)
-- [Patch-Sensitive Notes](weapon-notes/patch-sensitive-notes.md)
-
-## Calling Styles
-
-- [Overview](calling-styles/index.md)
-- [Bait and Switch](calling-styles/bait-and-switch.md)
-- [Tsunami / Flood](calling-styles/tsunami-flood.md)
-- [Kite / Control Calling](calling-styles/kite-control-calling.md)
-- [Turn and Burn](calling-styles/turn-and-burn.md)
-- [Sword Engage](calling-styles/sword-engage.md)
-- [Crescent Pressure](calling-styles/crescent-pressure.md)
-
-## Practical Examples
-
-- [Overview](practical-examples/index.md)
-- [Direction Calls](practical-examples/direction-calls.md)
-- [Counter Window](practical-examples/counter-window.md)
-- [DPS Timing Example](practical-examples/dps-timing-example.md)
-- [Healer Danger Area](practical-examples/healer-danger-area.md)
-- [Plate Frontline](practical-examples/plate-frontline.md)
-- [Support Utility](practical-examples/support-utility.md)
-- [Kite as Unit](practical-examples/kite-as-unit.md)
-- [Positional Pressure](practical-examples/positional-pressure.md)
-- [Objective / Door Fights](practical-examples/objective-door-fights.md)
-
-## Training
-
-- [Overview](training/index.md)
-- [VOD Review Method](training/vod-review-method.md)
-- [Micro-Drills](training/micro-drills.md)
-- [Concept-to-Drill Map](training/concept-to-drill-map.md)
-- [Player Development Ladder](training/player-development-ladder.md)
-
-## Workbooks / Tools
-
-- [Overview](workbooks/index.md)
-- [Website + Workbook Model](workbooks/website-workbook-model.md)
-- [Community Template Model](workbooks/community-template-model.md)
-- [Public-Copy Strategy](workbooks/public-copy-strategy.md)
-- [Public Release Checklist](workbooks/public-release-checklist.md)
-- [Great Fire Control Overview](workbooks/control-comp/overview.md)
-- [Great Fire Control Party Structure](workbooks/control-comp/party-structure.md)
-- [Great Fire Control Healer Package](workbooks/control-comp/healer-package.md)
-- [Great Fire Control Support Package](workbooks/control-comp/support-package.md)
-- [Package Depth Model](workbooks/package-depth-model.md)
-
-## Applied Build Cards
-
-- [Overview](build-cards/index.md)
-- [Great Fire Control Build Cards](build-cards/control-comp/index.md)
-- [Build Card Status Guide](build-cards/status-guide.md)
-
-## Sources / Credit
-
-- [Overview](sources-credit/index.md)
-- [Credit and Attribution Standard](sources-credit/credit-and-attribution-standard.md)
-- [Source Recovery Log](sources-credit/source-recovery-log.md)
-
-## Publication / Review
-
-- [Publication Audit](audit/index.md)
-- [Publication Readiness Audit](audit/publication-readiness-audit.md)
-- [Mechanics Verification Queue](audit/mechanics-verification-queue.md)
-- [Known Limitations](review/known-limitations.md)
-- [Final Trusted Review Route](review/final-trusted-review-route.md)
-- [Feedback Form Template](review/feedback-form-template.md)
-
-## Maintainers
-
-- [Overview](maintainers/index.md)
-- [Cleanup and Consolidation Log](maintainers/cleanup-consolidation-log.md)
-- [Versioning and Storage](maintainers/versioning-storage.md)
-- [Mechanics Verification](maintainers/mechanics-verification.md)
-- [Publishing Roadmap](maintainers/publishing-roadmap.md)
-- [Publication Go / No-Go](maintainers/publication-go-no-go.md)
-- [Post-Release Maintenance](maintainers/post-release-maintenance.md)
+The sidebar intentionally shows the public learning path, not every internal source-preservation page.

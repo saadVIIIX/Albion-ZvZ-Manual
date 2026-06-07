@@ -1,5 +1,5 @@
 ---
-status: Public Beta clarity pass
+status: public site clarity pass
 audience: Maintainers / reviewers
 source_layer: Project synthesis
 patch_sensitivity: Low

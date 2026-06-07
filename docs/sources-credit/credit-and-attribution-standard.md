@@ -1,53 +1,45 @@
 ---
-status: Draft
-audience: Project maintainers / editors
+status: Public reference
+audience: Public readers / contributors
 source_layer: Project synthesis
 patch_sensitivity: Low
-last_reviewed: 2026-06-05
+last_reviewed: 2026-06-07
 ---
 
 # Credit and Attribution Standard
 
-This page keeps the credit respectful without turning every page into a shrine.
+This page explains how the manual credits its teaching foundation without interrupting every practical lesson.
 
 ## Credit goal
 
-Credit should be clear, honest, and visible.
+Credit should be clear, honest, and visible. The site should communicate that:
 
-The project should communicate:
-
-- Khelron/AO University provided the core teaching foundation.
-- The site/workbook/archive organize and apply that teaching.
+- Khelron / AO University provided a major teaching foundation.
+- The manual and Formation Ledger organize, apply, and expand those lessons into public learning tools.
 - Private VOD critique is anonymized.
-- Additional references are used for structure and verification, not to overwrite AO University doctrine.
+- Other references can help with structure, mechanics verification, or wording, but they do not replace the AO University backbone.
 
-## Where credit should appear
+## Where credit belongs
 
-Credit should appear in:
+Credit belongs in the homepage, Sources / Credit page, and major doctrine overview pages where context matters.
 
-- homepage
-- Sources and Credit page
-- release notes
-- public beta review pack
-- major doctrine overview pages, where appropriate
-
-Credit does not need to be repeated in every small practical example page.
+It does not need to be repeated inside every small example. Normal teaching pages should focus on helping the reader understand what to do.
 
 ## Preferred wording
 
 Good:
 
-> Core educational credit for the AO University concepts belongs to Khelron and AO University. This project organizes and applies those lessons into a public manual and workbook companion.
+> Core educational credit for many AO University concepts belongs to Khelron and AO University. This project organizes and applies those lessons into a public manual and Formation Ledger companion.
 
 Avoid:
 
 > This project invented this doctrine.
 
-Also avoid overdoing:
+Also avoid overclaiming:
 
-> Every sentence of this website is personally from Khelron.
+> Every sentence of this website is directly from Khelron.
 
-That is too strong and not always true because the site includes project synthesis, navigation, workbook design, diagrams, and review templates.
+The site also includes project synthesis, navigation, Formation Ledger design, diagrams, and public presentation work.
 
 ## Private material wording
 
@@ -58,11 +50,3 @@ Good:
 Bad:
 
 > In VOD #X, player Y failed by doing Z.
-
-## External reference wording
-
-Good:
-
-> Albion Wiki is used for mechanics verification; EVE-style documentation references influence structure, not Albion doctrine.
-
-This prevents confusing a public Albion guide with a guild operating system.

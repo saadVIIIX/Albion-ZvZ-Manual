@@ -66,8 +66,7 @@ For every engage, answer:
 - [Support Utility Before Damage](../practical-examples/support-utility.md)
 - [Pressure Types](../fight-concepts/pressure-types.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
-- [Great Fire Control Support Package](../workbooks/control-comp/support-package.md)
 
-## Batch 4 support-DPS reinforcement
+## Support-DPS reinforcement
 
 AOU Ep. 18 reinforces that support DPS is not regular DPS and not pure support. It must bring utility that enables the zerg while still adding enough damage or pressure to justify a DPS slot.

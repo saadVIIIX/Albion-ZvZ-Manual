@@ -1,5 +1,5 @@
 ---
-status: Public Beta source-check notes
+status: public site source-check notes
 audience: DPS players / role leads
 source_layer: AO University + source-check review feedback
 patch_sensitivity: High
@@ -132,4 +132,4 @@ This page should feed:
 
 ## Review note
 
-The additional weapon examples added during Beta Candidate review are intentionally labeled as historical/source-check items. They should not be presented as current meta until verified.
+The additional weapon examples added during Release Candidate review are intentionally labeled as historical/source-check items. They should not be presented as current meta until verified.

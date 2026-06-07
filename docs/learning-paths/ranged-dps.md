@@ -19,7 +19,7 @@ Your job is to stay in range, hit on time, keep pressure active, and avoid becom
 3. [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
 4. [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
 5. [Ranged Pressure Playstyle](../playstyles/ranged-pressure.md)
-6. [Great Fire Build Card](../build-cards/control-comp/great-fire.md)
+6. [DPS Weapon Notes](../weapon-notes/dps-weapons.md)
 
 ## Practical next action
 

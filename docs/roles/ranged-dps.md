@@ -74,6 +74,6 @@ If these happen in the wrong order, the engage becomes weak even if the build is
 - [Ranged Pressure Playstyle](../playstyles/ranged-pressure.md)
 - [Ranged DPS Learning Path](../learning-paths/ranged-dps.md)
 
-## Batch 3 ranged-DPS reinforcement
+## Ranged-DPS reinforcement
 
 AOU Ep. 15 reinforces that ranged DPS should not be E-only. Ranged DPS should create Q/W pressure, read enemy name tags, take useful angles, hit real small clumps, and help control friendly backline space.

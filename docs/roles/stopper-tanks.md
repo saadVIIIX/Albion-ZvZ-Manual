@@ -64,6 +64,6 @@ If the answer is obvious only after damage lands, the stopper was late.
 - [Healthy Plate Must Front](../practical-examples/plate-frontline.md)
 - [Tank / Support Learning Path](../learning-paths/tank-support.md)
 
-## Batch 3 disengage-tank reinforcement
+## Disengage-tank reinforcement
 
 AOU Ep. 14 sharpens the disengage-tank role: read the enemy before damage lands, stop only real danger, cycle cooldowns, hold walls/angles, and clean the backline when enemies have already entered.
