@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <text x="40" y="45" font-size="28" font-family="Arial" fill="#1f4e78" font-weight="700">Danger-Area Healing</text>
+  <text x="40" y="80" font-size="16" font-family="Arial" fill="#374151">Healers and supports must cover where damage actually lands, not only the safest backline.</text>
+  <rect x="390" y="130" width="120" height="260" rx="16" fill="#d1d5db" stroke="#6b7280" stroke-width="3"/>
+  <text x="417" y="265" font-size="18" font-family="Arial" fill="#374151" font-weight="700">Door</text>
+  <ellipse cx="450" cy="190" rx="150" ry="70" fill="#fee2e2" stroke="#b91c1c" stroke-width="4"/>
+  <text x="365" y="195" font-size="18" font-family="Arial" fill="#991b1b" font-weight="700">Danger area</text>
+  <g fill="#0f5b78"><circle cx="320" cy="220" r="14"/><circle cx="350" cy="245" r="14"/><circle cx="380" cy="215" r="14"/><circle cx="410" cy="245" r="14"/></g>
+  <g fill="#166534"><circle cx="230" cy="330" r="15"/><circle cx="260" cy="355" r="15"/></g>
+  <text x="190" y="390" font-size="16" font-family="Arial" fill="#166534" font-weight="700">Healers in range</text>
+  <path d="M255,325 C300,270 345,230 395,205" stroke="#166534" stroke-width="5" fill="none"/>
+  <circle cx="720" cy="390" r="40" fill="#fff2cc" stroke="#c75b12" stroke-width="4"/>
+  <text x="667" y="455" font-size="16" font-family="Arial" fill="#92400e" font-weight="700">Safe but useless</text>
+  <path d="M690,370 C610,310 580,250 525,210" stroke="#c75b12" stroke-width="4" fill="none" stroke-dasharray="10 8"/>
+  <rect x="50" y="430" width="430" height="55" rx="12" fill="#eef6fb" stroke="#b7c9d6"/>
+  <text x="75" y="463" font-size="16" font-family="Arial" fill="#111827">The correct heal target is the danger area, not the safest screen position.</text>
+</svg>
