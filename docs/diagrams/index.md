@@ -1,32 +1,30 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# Tactical Diagrams
 
-# Diagram Plan
+Diagrams are field tools. They explain movement, fight shape, timing, and danger areas that are hard to understand from text alone.
 
-Diagrams should explain movement and fight shape, not decorate the site.
+<div class="ao-card-grid compact">
+<div class="ao-card blue">
+<h3>Movement shape</h3>
+<p>Use these when players understand the call but keep choosing bad paths, bad angles, or bad spacing.</p>
+</div>
+<div class="ao-card accent">
+<h3>Timing and danger</h3>
+<p>Use these to review where damage, healing, support, and tank value should land.</p>
+</div>
+</div>
 
-The first diagrams should focus on concepts that are difficult to explain with text alone.
+## Diagram library
 
-## Priority diagrams
+| Diagram | Tactical question |
+|---|---|
+| [Crescent Pressure](crescent-pressure.md) | How do we threaten enemy space without becoming one clump? |
+| [Kite Route and Turn Window](kite-route-turn-window.md) | When does a kite become a turn instead of endless running? |
+| [Danger-Area Healing](danger-area-healing.md) | Where should healers place value when pressure lands? |
+| [Defensive Layering](defensive-layering.md) | Where should defensive tools overlap? |
+| [Choke / Door Danger Box](choke-door-danger-box.md) | Where should players avoid stopping during a crossing? |
+| [First Through Outside Angle](first-through-outside-angle.md) | What should the first players through a choke do? |
+| [DPS Timing Sequence](dps-timing-sequence.md) | What order makes a damage window real? |
 
-- crescent pressure shape
-- kite route with turn window
-- danger-area healing
-- support defensive layering
-- choke/door danger box
-- first-through outside angle
-- DPS timing sequence
-- role spacing around an engage
+## Rule
 
-## Diagram rule
-
-Every diagram should answer one tactical question. If it does not teach a decision, it should not be added yet.
-
-## Cross-link map
-
-Use [Diagram Cross-Link Map](diagram-cross-link-map.md) to decide where diagrams should support role, concept, and example pages.
+Every diagram should answer one tactical question. If it does not teach a decision, it does not belong in the public manual yet.

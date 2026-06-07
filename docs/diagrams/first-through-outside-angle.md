@@ -1,34 +1,21 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# First Through Outside Angle Diagram
 
-# Diagram Brief: First Through Takes Outside
+<div class="ao-callout blue">
+<strong>Tactical question:</strong> What should the first players through a choke do?
+</div>
 
-## Purpose
+![First Through Outside Angle Diagram](../assets/images/diagrams/first-through-outside-angle.svg){ .diagram }
 
-Show early players through a choke taking side/outside angles while later players fill safer paths.
+## What to learn
 
-## Must show
+First players create side space. Later players pass through the choke instead of piling into the center line.
 
-- friendly zerg
-- enemy zerg or threat
-- danger area
-- correct movement path
-- common mistake path
-- one clear teaching point
+## Common failure
 
-## Do not include yet
-
-- private player names
-- exact guild VOD screenshots unless cleared
-- cluttered icons that make the lesson harder to read
+Players often understand the call but choose a bad shape or path. Use the diagram to review whether the zerg's movement created safe value or gave the enemy an easy bomb target.
 
 ## Related pages
 
-- Fight Concepts
-- Role Guides
-- Practical Examples
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Practical Examples](../practical-examples/index.md)

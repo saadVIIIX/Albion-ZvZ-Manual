@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Tanks / supports / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Stopper / Defensive Tanks
 
 Stopper tanks and defensive tanks mitigate the risk of the caller's decision.
@@ -64,6 +56,6 @@ If the answer is obvious only after damage lands, the stopper was late.
 - [Healthy Plate Must Front](../practical-examples/plate-frontline.md)
 - [Tank / Support Learning Path](../learning-paths/tank-support.md)
 
-## Disengage-tank reinforcement
+## Defensive read standard
 
-AOU Ep. 14 sharpens the disengage-tank role: read the enemy before damage lands, stop only real danger, cycle cooldowns, hold walls/angles, and clean the backline when enemies have already entered.
+A good disengage or stopper tank reads enemy danger before damage lands. Stop only the real threat, cycle cooldowns, hold walls or angles when they matter, and clean the backline when enemies have already entered.

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # DPS Timing and Clump Selection
 
 DPS timing is the difference between a real engage and fake pressure.
@@ -64,6 +56,6 @@ If damage consistently lands after enemy response, DPS timing is late.
 - [DPS Damage Must Land on Zero](../practical-examples/dps-timing-example.md)
 - [Q/W Pressure Floor](qw-pressure.md)
 
-## Melee-burst timing reinforcement
+## Melee timing risk
 
-AOU Ep. 17 reinforces that melee burst timing is especially punishing. A late ranged DPS player may simply miss damage; a late melee burst player may enter exactly where the enemy counter-engage lands.
+Melee burst timing is especially punishing. A late ranged DPS player may simply miss damage; a late melee burst player may enter exactly where the enemy counter-engage lands.

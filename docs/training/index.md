@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Role leads / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Training and VOD Review
 
 Training turns doctrine into habits.
@@ -38,7 +30,7 @@ If a review produces ten unrelated corrections, players usually fix none of them
 
 ## Review culture
 
-Good review is direct but not humiliating. Private VOD critique should become anonymized teaching patterns in the public project.
+Good review is direct but not humiliating. Review should turn a mistake into a teachable pattern and one next habit to practice.
 
 ## Concept-to-drill map
 

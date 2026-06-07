@@ -1,11 +1,3 @@
----
-status: Public guide
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Fight Style Literacy
 
 Fight style literacy helps players recognize how a fight is being shaped.
@@ -48,7 +40,8 @@ These pages are **fight-literacy pages**, not finished comp sheets. They teach h
 - [Weapon and Ability Notes](../weapon-notes/index.md)
 - [Formation Ledger](../workbooks/index.md)
 
-## Fight-style literacy additions
+## Use style labels as behavior hints
 
-From the first targeted AOU transcript batch:
+Style labels are useful only if they change decisions. If an enemy is trying to bomb, spread and deny the setup. If an enemy is trying to brawl, protect the backline and kite the pressure. If an enemy is trying to control space, watch terrain, angles, and counter windows.
 
+The label is not the lesson. The response is the lesson.

@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All readers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Learning Path: Tank / Support
 
 ## Goal

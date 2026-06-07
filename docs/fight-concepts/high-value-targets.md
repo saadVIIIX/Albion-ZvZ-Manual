@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS / callers / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # High-Value Targets
 
 A high-value target is not always the lowest HP player.

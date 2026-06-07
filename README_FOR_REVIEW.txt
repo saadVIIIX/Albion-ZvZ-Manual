@@ -1,4 +1,4 @@
-Albion ZvZ Manual - Public Scope Cleanup
+Albion ZvZ Manual - Public Doctrine Integration and Diagram Cleanup
 
 This package updates the live site presentation and scope boundaries:
 - removes visible Great Fire Control Formation subpages from the Formation Ledger nav

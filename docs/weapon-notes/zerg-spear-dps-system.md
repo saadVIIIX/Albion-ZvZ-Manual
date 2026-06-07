@@ -1,11 +1,3 @@
----
-status: public site source-check notes
-audience: DPS players / role leads
-source_layer: AO University + source-check review feedback
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Zerg Spear: DPS Role Families
 
 Episode 10 frames DPS as the zerg's spear.
@@ -35,7 +27,7 @@ Weapons discussed in AOU material include:
 - Demonfang
 - Bridled Fury
 
-Additional historically used or source-check examples to track:
+Additional historically used or historical examples to track:
 
 - Battle Bracers
 - Hellfire Hands
@@ -46,7 +38,7 @@ Public lesson:
 
 > Melee burst survival is speed, timing, and leaving the danger point immediately after the hit.
 
-Patch/source caution: historical examples should be treated as **source-check / patch-sensitive** unless verified for the current meta.
+Patch/source caution: historical examples should be treated as **patch-sensitive** unless verified for the current meta.
 
 ## Melee DoT / pressure
 
@@ -107,7 +99,7 @@ Public lesson:
 
 ## Build logic
 
-The episode repeatedly reinforces that you evaluate a weapon by how the whole kit is used:
+Evaluate a weapon by how the whole kit is used:
 
 - weapon
 - Q/W options
@@ -132,4 +124,4 @@ This page should feed:
 
 ## Review note
 
-The additional weapon examples added during Release Candidate review are intentionally labeled as historical/source-check items. They should not be presented as current meta until verified.
+The additional weapon examples added during review are intentionally labeled as historical/historical examples. They should not be presented as current meta until verified.

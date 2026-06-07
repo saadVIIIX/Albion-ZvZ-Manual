@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: New players
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # New to ZvZ
 
 ZvZ is not just a bigger small-scale fight. The important difference is that your individual movement affects the entire group's survival.

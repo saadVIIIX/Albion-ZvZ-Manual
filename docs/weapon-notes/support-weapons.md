@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: Supports / support DPS / maintainers
-source_layer: AO University / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Support Weapon Notes
 
 Support weapons and utility tools make other players' value work.

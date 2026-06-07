@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Support DPS / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Support DPS
 
 Support DPS creates the kill window.
@@ -67,6 +59,6 @@ For every engage, answer:
 - [Pressure Types](../fight-concepts/pressure-types.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
 
-## Support-DPS reinforcement
+## Minimum value standard
 
-AOU Ep. 18 reinforces that support DPS is not regular DPS and not pure support. It must bring utility that enables the zerg while still adding enough damage or pressure to justify a DPS slot.
+Support DPS is neither normal DPS nor pure support. It must bring utility that helps the zerg convert kills while still adding enough damage, pressure, or disruption to justify a DPS slot.

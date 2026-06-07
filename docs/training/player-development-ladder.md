@@ -1,11 +1,3 @@
----
-status: Draft
-audience: Players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Player Development Ladder
 
 1. **Survive correctly** — do not clump, do not panic, use defensives.

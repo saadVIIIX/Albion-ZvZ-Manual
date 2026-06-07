@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Healers / role leads
-source_layer: AO University / Formation Ledger application
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Nature Healers
 
 Nature healers are often undervalued in Albion zergs, but this project treats them as part of the core healer package.
@@ -75,13 +67,13 @@ Review every major Nature zone and ask:
 
 - [Holy Healers](holy-healers.md)
 - [Kite as a Unit](../practical-examples/kite-as-unit.md)
-- [Danger-Area Healing Diagram Brief](../diagrams/danger-area-healing.md)
+- [Danger-Area Healing Diagram](../diagrams/danger-area-healing.md)
 - [Healer Learning Path](../learning-paths/healer.md)
 
-## Sustain-healer reinforcement
+## Sustain healer value
 
-HoT/sustain healers are not filler. Sustain healers are responsible for flank healing, skirmish recovery, stabilization after pressure, and keeping the zerg active between burst-heal moments.
+HoT and sustain healers are not filler. Sustain healing covers flanks, supports skirmish recovery, stabilizes the zerg after pressure, and keeps players active between burst-heal moments.
 
-## Nature route and recovery value
+## Route and recovery value
 
-Nature/sustain healing supports recovery, flanks, routes, and stabilization. Nature value should be taught as part of the healer package, not as filler behind Holy healing.
+Nature healing supports recovery, flanks, routes, and stabilization. Teach Nature as part of the healer package, not as filler behind Holy healing.

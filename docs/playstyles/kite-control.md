@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Kite / Control Concepts
 
 Kite/control style uses movement, terrain, denial, and threat to make the enemy commit badly.

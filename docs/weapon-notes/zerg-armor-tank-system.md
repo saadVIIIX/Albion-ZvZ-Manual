@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Tanks / supports / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Zerg Armor: Tank Layer System
 
 Episode 9 frames tanks as the zerg's armor.

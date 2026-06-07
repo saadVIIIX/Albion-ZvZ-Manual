@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Supports / healers / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Defensive Layering
 
 Defensive layering means multiple survival tools cover the same real danger area without being wasted on safe space.
@@ -69,12 +61,12 @@ For each major enemy engage, mark:
 - [Holy Healers](../roles/holy-healers.md)
 - [Nature Healers](../roles/nature-healers.md)
 - [Danger-Area Healing](../practical-examples/healer-danger-area.md)
-- [Defensive Layering Diagram Brief](../diagrams/defensive-layering.md)
+- [Defensive Layering Diagram](../diagrams/defensive-layering.md)
 
 ## Tank-layer model
 
 A useful defensive-layer model is: scout first, then kite tanks, then disengage tanks, then caller/danger area, with clump tanks/main body behind that layer. This should be treated as a flexible mental model, not a fixed marching formation.
 
-## Support anticipation reinforcement
+## Support anticipation
 
 Defensive layers should not be purely reactive. Supports must read enemy pressure before damage lands, especially side-angle bomb squads and off-cooldown engage threats.

@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: DPS players / maintainers
-source_layer: AO University / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # DPS Weapon Notes
 
 This page is a public literacy index for DPS weapons and damage roles.
@@ -121,7 +113,7 @@ These families should receive source-backed notes later:
 - additional ranged burst weapons
 - additional melee clap weapons
 
-Do not fill these with guesswork. Save deeper source-recovery work for a later targeted update.
+Do not fill these with guesswork. Leave unsupported or unclear examples out until they can be reviewed properly.
 
 ## Related pages
 

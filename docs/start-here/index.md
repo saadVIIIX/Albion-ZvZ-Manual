@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: New players
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Start Here
 
 This section is the shortest path into the project.

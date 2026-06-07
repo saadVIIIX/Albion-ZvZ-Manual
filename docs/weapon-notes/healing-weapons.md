@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: Healers / maintainers
-source_layer: AO University / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Healing Weapon Notes
 
 Healing weapon notes support the public healer doctrine: Holy and Nature both matter.

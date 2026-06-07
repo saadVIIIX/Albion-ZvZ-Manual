@@ -1,11 +1,3 @@
----
-status: public site clarity pass
-audience: Maintainers / reviewers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Patch-Sensitive Notes
 
 The manual should not be afraid to use weapon and item examples. Examples help players understand how tools work.

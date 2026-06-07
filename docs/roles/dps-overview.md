@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS players / role leads
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # DPS Overview
 
 DPS is the role family responsible for turning fight windows into pressure, kills, and space.

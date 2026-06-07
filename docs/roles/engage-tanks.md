@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Tanks / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Engage / Clump Tanks
 
 Engage tanks create or reinforce the moment where the zerg's damage can kill.

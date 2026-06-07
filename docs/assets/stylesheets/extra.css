@@ -260,3 +260,21 @@ img.diagram {
 @media screen and (min-width: 88em) {
   .md-grid { max-width: 82rem; }
 }
+
+
+/* v3.1.3 public doctrine integration and diagram polish */
+.md-typeset img.diagram {
+  width: 100%;
+  max-width: 980px;
+  display: block;
+  margin: 1.1rem auto;
+  border: 1px solid #9fb7c8;
+  border-radius: 1rem;
+  background: #fff;
+  padding: .25rem;
+  box-shadow: 0 6px 20px rgba(15,47,74,.10);
+}
+.md-typeset .ao-card-grid.compact .ao-card p { margin-bottom: .25rem; }
+.md-nav--primary .md-nav__item .md-nav__link { line-height: 1.25; }
+.md-nav--primary .md-nav__item--section > .md-nav__link { border-left: 3px solid var(--ao-orange); }
+.md-typeset .zvz-status { display: none; }

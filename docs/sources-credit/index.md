@@ -1,11 +1,3 @@
----
-status: Public reference
-audience: Public readers / maintainers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Sources and Credit
 
 The Albion ZvZ Manual is a teaching project first.
@@ -59,7 +51,7 @@ A weapon example usually exists to teach a function:
 
 Unless a page explicitly says otherwise, examples are not universal current-meta recommendations.
 
-## Private VOD rule
+## VOD privacy rule
 
 Private/unlisted guild review material should be used only as anonymous teaching patterns unless explicit permission is given.
 

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Melee DPS / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Melee Burst DPS Deep Dive
 
 Episode 17 focuses on melee burst DPS.

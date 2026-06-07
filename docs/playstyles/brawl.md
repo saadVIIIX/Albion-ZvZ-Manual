@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Brawl Concepts
 
 Brawl style tries to stay active near or inside enemy space and win through sustained pressure, anti-heal, healing strain, and repeated value.

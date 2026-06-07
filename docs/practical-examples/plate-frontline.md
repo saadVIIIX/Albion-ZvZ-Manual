@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All players / role leads
-source_layer: AO University / anonymized VOD patterns
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Healthy Plate Must Front
 
 ## Situation

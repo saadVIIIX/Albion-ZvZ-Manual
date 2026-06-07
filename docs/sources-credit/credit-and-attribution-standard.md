@@ -1,11 +1,3 @@
----
-status: Public reference
-audience: Public readers / contributors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Credit and Attribution Standard
 
 This page explains how the manual credits its teaching foundation without interrupting every practical lesson.
@@ -14,7 +6,7 @@ This page explains how the manual credits its teaching foundation without interr
 
 Credit should be clear, honest, and visible. The site should communicate that:
 
-- Khelron / AO University provided a major teaching foundation.
+- Khelron provided a major teaching foundation.
 - The manual and Formation Ledger organize, apply, and expand those lessons into public learning tools.
 - Private VOD critique is anonymized.
 - Other references can help with structure, mechanics verification, or wording, but they do not replace the AO University backbone.

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Callers / healers / role leads
-source_layer: AO University Ep. 5 / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Caller and Healer Case Studies
 
 This page captures the build-synergy case-study logic from AO University Ep. 5.
@@ -53,7 +45,7 @@ This is a caller-build case study, not a universal command that every caller mus
 
 ## Fallen healer case study
 
-Fallen is used in the episode as the healer case study because it clearly shows role requirement, synergy, and defensives.
+Fallen-style healing is a clear example of role requirement, synergy, and defensive planning.
 
 ### Healer requirements
 
@@ -67,7 +59,7 @@ A healer needs:
 
 ### Holy Q/W logic
 
-The episode distinguishes between different Holy tools depending on whether the healer is acting as a pocket healer or a general zerg healer.
+Holy tools should be judged by whether the healer is acting as a pocket healer, danger-area healer, or general zerg healer.
 
 Public wording should avoid pretending one ability is always correct. The better rule is:
 

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: All players / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Terrain and Geometry
 
 Terrain is not background. Terrain is one of the main weapons in ZvZ.
@@ -73,6 +65,6 @@ Before an objective fight, identify:
 - [Choke / Door Danger Box](../diagrams/choke-door-danger-box.md)
 - [Stopper Tanks](../roles/stopper-tanks.md)
 
-## Defensive tank wall-control note
+## Wall-control rule
 
-AOU Ep. 14 emphasizes that disengage tanks should help hold walls, ridges, rivers, and other terrain lines. Losing the wall often means losing the fight shape.
+Disengage and stopper tanks help hold walls, ridges, rivers, and other terrain lines. Losing the wall often means losing the shape of the fight.

@@ -1,11 +1,3 @@
----
-status: Public site
-audience: Public readers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 <div class="ao-hero">
 
 # Albion ZvZ Manual
@@ -22,7 +14,7 @@ The Albion ZvZ Manual helps Albion Online players learn large-scale PvP: how to 
 
 </div>
 
-The guide is built through strong source material - especially Khelron / AO University teachings - but its purpose is practical: **help the general Albion playerbase understand what to do in fights and why those decisions matter.**
+The guide is built through strong source material - especially Khelron teachings - but its purpose is practical: **help the general Albion playerbase understand what to do in fights and why those decisions matter.**
 
 ## Start by what you need
 

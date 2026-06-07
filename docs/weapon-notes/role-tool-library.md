@@ -1,11 +1,3 @@
----
-status: public site public reference pass
-audience: Role leads / maintainers / advanced reviewers
-source_layer: AO University / project synthesis
-patch_sensitivity: Medium
-last_reviewed: 2026-06-07
----
-
 # Role and Tool Library
 
 This is an advanced functional reference for role leads and players who want deeper examples of how tools create value in ZvZ.

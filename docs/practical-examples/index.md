@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: All players / role leads
-source_layer: AO University / anonymized VOD patterns
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Practical Example Library
 
 The example library turns common VOD-review patterns into repeatable lessons.
@@ -33,6 +25,6 @@ Each example should teach a decision, not just describe a mistake.
 | [Positional Pressure](positional-pressure.md) | win space without a full engage |
 | [Objective / Door Fights](objective-door-fights.md) | identify danger boxes and routes |
 
-## Review rule
+## Example rule
 
-Do not use private player names. Teach the pattern, not the person.
+Teach the pattern, not the person. A useful example shows the situation, the better decision, the common failure, and the habit to train next.

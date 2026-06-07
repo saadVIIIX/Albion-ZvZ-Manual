@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Supports / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Supports
 
 Supports keep the zerg alive, maintain space, and make the caller's risk manageable.

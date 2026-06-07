@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Healers / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Healer Deep Dive
 
 Episode 19 focuses on healers.
@@ -22,7 +14,7 @@ The central lesson is that healing is not only clump healing. A healer must unde
 
 ## Fallen and Holy logic
 
-Fallen-style healing is valuable because it provides large area recovery, but the episode strongly warns against reducing Holy to only AoE clump healing.
+Fallen-style healing is valuable because it provides large area recovery, but the key lesson is not to reduce Holy to only AoE clump healing.
 
 A key recovered point:
 
@@ -30,7 +22,7 @@ A key recovered point:
 
 ## Single-target Holy Q argument
 
-The episode makes a strong case for single-target Holy Q because:
+Single-target Holy value matters because:
 
 - clumps already receive many AoE heals
 - isolated or low-value-target players may need precise saving

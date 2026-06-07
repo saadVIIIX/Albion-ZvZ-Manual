@@ -1,11 +1,3 @@
----
-status: public site source-check notes
-audience: Healers / supports / role leads
-source_layer: AO University + source-check review feedback
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Zerg Heart and Shield: Healer and Support Families
 
 Episode 11 frames healers as the zerg's heart and supports as the zerg's shield.
@@ -42,7 +34,7 @@ Key points:
 - do not run into the center trying to burst-heal clumps if their kit is not suited for that moment
 - stabilizing after enemy damage often means giving HoT/sustain healers time to top people off
 
-This strongly reinforces the project rule that **Nature is not filler**.
+The public lesson is simple: **Nature is not filler**.
 
 ## Pocket healer doctrine
 
@@ -66,7 +58,7 @@ Examples include:
 
 - Enigmatic-style shielding
 - older Great Arcane mitigation framing
-- Black Monk Staff as a conceptual damage-reduction example, with low-use / source-check caution
+- Black Monk Staff as a conceptual damage-reduction example, with low-use / patch-sensitive caution
 - Oathkeepers-style shielding and resistance support
 
 ## Mobility supports
@@ -106,4 +98,4 @@ This page should feed:
 
 ## Review note
 
-Some examples added during Release Candidate review are source-check additions from practical Albion usage. Keep them patch-sensitive until verified against current item behavior.
+Some examples added during review are historical examples from practical Albion usage. Keep them patch-sensitive until verified against current item behavior.

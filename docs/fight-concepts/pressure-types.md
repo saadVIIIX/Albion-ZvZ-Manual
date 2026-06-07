@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS / role leads / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Pressure Types
 
 Pressure is not only kill damage.
@@ -59,10 +51,10 @@ Pick a 15-second period between major engages and ask:
 - [Ranged DPS](../roles/ranged-dps.md)
 - [Positional Pressure Example](../practical-examples/positional-pressure.md)
 
-## Melee pressure reinforcement
+## Melee pressure over time
 
-AOU Ep. 16 frames melee DoT pressure as accumulated healer strain and mana pressure. It is not only about direct kills; it can force enemy healers to move, spend, panic, or abandon the right position.
+Melee DoT and pressure tools can create accumulated healer strain and mana pressure. They are not only about direct kills; they can force enemy healers to move, spend, panic, or abandon the right position.
 
-## Support-DPS utility reinforcement
+## Utility pressure
 
-AOU Ep. 18 reinforces that pressure can come from utility, not only raw damage. Pierce, stun, anti-heal, purge, interruption, and timing can be the reason allied damage converts.
+Pressure can come from utility, not only raw damage. Pierce, stun, anti-heal, purge, interruption, and timing can be the reason allied damage finally converts.

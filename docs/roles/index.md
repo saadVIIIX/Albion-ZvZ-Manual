@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Role Guides
 
 Role guides explain what each role should do before, during, and between major fight moments.

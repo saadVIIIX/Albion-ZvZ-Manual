@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Ranged DPS / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Ranged DPS Deep Dive
 
 Episode 15 focuses on ranged DPS.

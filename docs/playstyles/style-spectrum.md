@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Fight Style Spectrum
 
 Albion fights rarely fit one pure label. A zerg may bomb, brawl, kite, control, and pressure in different moments.

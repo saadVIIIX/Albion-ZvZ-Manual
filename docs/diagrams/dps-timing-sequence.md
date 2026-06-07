@@ -1,34 +1,21 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# DPS Timing Sequence Diagram
 
-# Diagram Brief: DPS Timing Sequence
+<div class="ao-callout blue">
+<strong>Tactical question:</strong> What order makes a damage window real?
+</div>
 
-## Purpose
+![DPS Timing Sequence Diagram](../assets/images/diagrams/dps-timing-sequence.svg){ .diagram }
 
-Show clump/lock before zero, utility on time, damage landing on zero, and spread after cast.
+## What to learn
 
-## Must show
+Clump/lock first, utility before or with damage, damage on the window, then spread or reset.
 
-- friendly zerg
-- enemy zerg or threat
-- danger area
-- correct movement path
-- common mistake path
-- one clear teaching point
+## Common failure
 
-## Do not include yet
-
-- private player names
-- exact guild VOD screenshots unless cleared
-- cluttered icons that make the lesson harder to read
+Players often understand the call but choose a bad shape or path. Use the diagram to review whether the zerg's movement created safe value or gave the enemy an easy bomb target.
 
 ## Related pages
 
-- Fight Concepts
-- Role Guides
-- Practical Examples
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Practical Examples](../practical-examples/index.md)

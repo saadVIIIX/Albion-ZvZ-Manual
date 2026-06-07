@@ -1,40 +1,21 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# Kite Route and Turn Window Diagram
 
-# Diagram Brief: Kite Route and Turn Window
+<div class="ao-callout blue">
+<strong>Tactical question:</strong> When does a kite become a turn instead of endless running?
+</div>
 
-## Purpose
+![Kite Route and Turn Window Diagram](../assets/images/diagrams/kite-route-turn-window.svg){ .diagram }
 
-Show a planned kite route around terrain, where players should stop running, and where counter pressure begins.
+## What to learn
 
-## Must show
+Kite far enough to break enemy cooldowns, then stop giving ground and turn with safe players.
 
-- friendly zerg
-- enemy zerg or threat
-- danger area
-- correct movement path
-- common mistake path
-- one clear teaching point
+## Common failure
 
-## Do not include yet
-
-- private player names
-- exact guild VOD screenshots unless cleared
-- cluttered icons that make the lesson harder to read
+Players often understand the call but choose a bad shape or path. Use the diagram to review whether the zerg's movement created safe value or gave the enemy an easy bomb target.
 
 ## Related pages
 
-- Fight Concepts
-- Role Guides
-- Practical Examples
-
-## Draft diagram
-
-![Kite route and turn window diagram](../assets/images/diagrams/kite-route-turn-window.svg){ .diagram }
-
-This is an original draft diagram for teaching. It should be improved visually later, but the tactical idea is now represented.
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Practical Examples](../practical-examples/index.md)

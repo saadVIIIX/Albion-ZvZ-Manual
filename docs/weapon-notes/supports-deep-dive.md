@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Supports / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Supports Deep Dive
 
 Episode 20 focuses on supports.

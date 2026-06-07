@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Support DPS / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Support DPS Deep Dive
 
 Episode 18 focuses on support DPS.

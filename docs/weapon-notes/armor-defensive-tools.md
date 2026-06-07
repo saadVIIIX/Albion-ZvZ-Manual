@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: All players / maintainers
-source_layer: AO University / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Armor and Defensive Tool Notes
 
 Armor and defensive tools should be evaluated by what they provide to the zerg, not only by personal survival.

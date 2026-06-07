@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: New players / all players
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Ten Rules Before CTA
 
 These rules are intentionally blunt. They stop the most common fight-losing habits before deeper doctrine matters.

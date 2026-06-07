@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: All players / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Calling Styles
 
 Calling style pages are not meant to make every player a caller. They help line members recognize the shape of the fight so they can move correctly before every detail is spoken.

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Counter-Engage Windows
 
 A counter-engage window appears when the enemy has spent cooldowns and your zerg is still alive.

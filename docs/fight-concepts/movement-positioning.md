@@ -1,11 +1,3 @@
----
-status: Public guide
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Movement and Positioning
 
 Movement and positioning are connected, but they are not the same thing.

@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: Community / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Medium
-last_reviewed: 2026-06-05
----
-
 # Melee DoT / Pressure Brawl Comps
 
 

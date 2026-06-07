@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: New players
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Pick Your First Role
 
 A developing player usually improves faster with stable reps than constant flexing.

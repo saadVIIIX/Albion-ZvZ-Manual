@@ -1,11 +1,3 @@
----
-status: Draft
-audience: New players
-source_layer: Formation Ledger application
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # First CTA Checklist
 
 Before content:

@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Ranged DPS
 
 Ranged DPS is not just pressing E on a countdown.
@@ -74,6 +66,6 @@ If these happen in the wrong order, the engage becomes weak even if the build is
 - [Ranged Pressure Playstyle](../playstyles/ranged-pressure.md)
 - [Ranged DPS Learning Path](../learning-paths/ranged-dps.md)
 
-## Ranged-DPS reinforcement
+## Minimum value standard
 
-AOU Ep. 15 reinforces that ranged DPS should not be E-only. Ranged DPS should create Q/W pressure, read enemy name tags, take useful angles, hit real small clumps, and help control friendly backline space.
+Ranged DPS should not disappear between major E cooldowns. A useful ranged DPS player keeps creating value through Q/W pressure, angle discipline, target reading, small-clump hits, and backline space control.

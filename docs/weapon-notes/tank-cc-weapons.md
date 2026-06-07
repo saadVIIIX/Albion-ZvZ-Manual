@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: Tanks / supports / maintainers
-source_layer: AO University / project synthesis
-patch_sensitivity: High
-last_reviewed: 2026-06-07
----
-
 # Tank / CC Weapon Notes
 
 Tank and CC tools shape where the fight can happen.

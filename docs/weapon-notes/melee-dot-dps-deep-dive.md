@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Melee DPS / role leads
-source_layer: AO University transcripts
-patch_sensitivity: High
-last_reviewed: 2026-06-06
----
-
 # Melee DoT / Pressure DPS Deep Dive
 
 Episode 16 focuses on melee damage-over-time DPS.

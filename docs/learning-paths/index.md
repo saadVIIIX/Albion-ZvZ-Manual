@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: All readers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Learning Paths
 
 Learning paths organize the site by reader need instead of by page category.

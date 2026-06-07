@@ -1,11 +1,3 @@
----
-status: Draft
-audience: All players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Ranged Pressure Concepts
 
 Ranged pressure means creating value from distance through uptime, small-clump hits, area control, and timely conversion.

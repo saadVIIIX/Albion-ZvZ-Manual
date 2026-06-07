@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: Scouts / officers / info roles
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Scouts / HVT Watch / Information Roles
 
 

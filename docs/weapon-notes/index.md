@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: All players / role leads
-source_layer: Project synthesis supported by AO University and project review
-patch_sensitivity: Medium
-last_reviewed: 2026-06-07
----
-
 # Weapon and Ability Notes
 
 Weapon and Ability Notes teach **how tools create value in ZvZ**.
@@ -44,7 +36,7 @@ These examples should help players understand **how to use any tool correctly**,
 
 ## Role-family frameworks
 
-These role-family models are integrated into the public doctrine so they teach behavior instead of sitting as raw source-recovery pages.
+These role-family models help readers judge tools by function instead of fashion or damage-meter value.
 
 | Framework | Public lesson | Where to continue |
 |---|---|---|

@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: All players
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # All Players — Interpret the Call
 
 

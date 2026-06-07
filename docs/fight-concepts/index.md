@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Intermediate players / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Fight Concepts
 
 Fight concepts explain why calls work.

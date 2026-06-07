@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: Melee DPS / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Melee Pressure / Execute DPS
 
 
@@ -39,6 +31,6 @@ Deep commits are usually safer on counter-engage than first engage. If your grou
 
 Pause before each melee commit. Ask: is this first engage or counter-engage? What enemy cooldowns are still available? Where is the exit?
 
-## Melee pressure reinforcement
+## Pressure value over time
 
-AOU Ep. 16 reinforces that melee DoT/pressure is not about glory. Its value is healer strain, mana drain, psychological pressure, and enemy movement control over time.
+Melee pressure is not only about glory kills. Its value can be healer strain, mana drain, psychological pressure, forced movement, and making the enemy spend recovery tools before they want to.

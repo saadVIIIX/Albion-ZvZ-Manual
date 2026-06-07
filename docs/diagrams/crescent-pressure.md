@@ -1,40 +1,21 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# Crescent Pressure Diagram
 
-# Diagram Brief: Crescent Pressure
+<div class="ao-callout blue">
+<strong>Tactical question:</strong> How do we threaten enemy space without becoming one clump?
+</div>
 
-## Purpose
+![Crescent Pressure Diagram](../assets/images/diagrams/crescent-pressure.svg){ .diagram }
 
-Show a zerg spread in a curved shape around enemy space, threatening multiple paths without becoming one clump.
+## What to learn
 
-## Must show
+Hold a curved threat line around enemy space. Pressure from angles, but leave enough spacing that one enemy engage cannot hit the whole zerg.
 
-- friendly zerg
-- enemy zerg or threat
-- danger area
-- correct movement path
-- common mistake path
-- one clear teaching point
+## Common failure
 
-## Do not include yet
-
-- private player names
-- exact guild VOD screenshots unless cleared
-- cluttered icons that make the lesson harder to read
+Players often understand the call but choose a bad shape or path. Use the diagram to review whether the zerg's movement created safe value or gave the enemy an easy bomb target.
 
 ## Related pages
 
-- Fight Concepts
-- Role Guides
-- Practical Examples
-
-## Draft diagram
-
-![Crescent pressure diagram](../assets/images/diagrams/crescent-pressure.svg){ .diagram }
-
-This is an original draft diagram for teaching. It should be improved visually later, but the tactical idea is now represented.
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Practical Examples](../practical-examples/index.md)

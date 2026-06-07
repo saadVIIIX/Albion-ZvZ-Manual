@@ -1,34 +1,21 @@
----
-status: Draft
-audience: Project maintainers / visual editors
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
+# Choke / Door Danger Box Diagram
 
-# Diagram Brief: Choke / Door Danger Box
+<div class="ao-callout blue">
+<strong>Tactical question:</strong> Where should players avoid stopping during a crossing?
+</div>
 
-## Purpose
+![Choke / Door Danger Box Diagram](../assets/images/diagrams/choke-door-danger-box.svg){ .diagram }
 
-Show where players should not stack, where tanks stop, where DPS can punish, and where healers should cover.
+## What to learn
 
-## Must show
+Do not stop in the predictable bomb box. Cross with purpose while tanks/supports cover the danger line.
 
-- friendly zerg
-- enemy zerg or threat
-- danger area
-- correct movement path
-- common mistake path
-- one clear teaching point
+## Common failure
 
-## Do not include yet
-
-- private player names
-- exact guild VOD screenshots unless cleared
-- cluttered icons that make the lesson harder to read
+Players often understand the call but choose a bad shape or path. Use the diagram to review whether the zerg's movement created safe value or gave the enemy an easy bomb target.
 
 ## Related pages
 
-- Fight Concepts
-- Role Guides
-- Practical Examples
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Practical Examples](../practical-examples/index.md)

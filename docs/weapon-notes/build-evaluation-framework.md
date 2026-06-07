@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Players / role leads / maintainers
-source_layer: AO University Ep. 5 / project synthesis
-patch_sensitivity: Medium
-last_reviewed: 2026-06-06
----
-
 # Build Evaluation Framework
 
 This page turns AO University Ep. 5 — Gearing Up into a reusable build-analysis method.

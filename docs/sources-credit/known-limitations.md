@@ -1,11 +1,3 @@
----
-status: Public reference
-audience: Public readers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Known Limitations
 
 The manual is live and usable, but it is still growing.

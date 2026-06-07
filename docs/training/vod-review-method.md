@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Role leads / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # VOD Review Method
 
 A good VOD review turns a fight into one or two practical habits.

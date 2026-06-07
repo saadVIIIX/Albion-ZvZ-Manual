@@ -1,11 +1,3 @@
----
-status: Public site
-audience: Officers / groups / ledger users
-source_layer: Formation Ledger application
-patch_sensitivity: Medium
-last_reviewed: 2026-06-07
----
-
 # Albion ZvZ Formation Ledger
 
 The public manual teaches. The Formation Ledger helps groups run content.

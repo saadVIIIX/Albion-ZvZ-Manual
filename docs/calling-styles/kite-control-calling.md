@@ -1,11 +1,3 @@
----
-status: Expanded draft
-audience: All players / officers
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Kite / Control Calling
 
 ## Core idea

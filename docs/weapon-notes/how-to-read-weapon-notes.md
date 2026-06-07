@@ -1,11 +1,3 @@
----
-status: public site weapon-notes clarity pass
-audience: All players / role leads / maintainers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # How to Read Weapon Notes
 
 Weapon notes are teaching notes, not universal build orders.
@@ -16,7 +8,7 @@ Read them as examples of function:
 - What timing does it need?
 - What positioning makes it useful?
 - What mistake makes it useless?
-- Is the lesson general, or tied to one applied comp package?
+- Is the lesson general, or tied to one applied formation package?
 
 ## Do not read this section as
 
@@ -25,7 +17,7 @@ Read them as examples of function:
 - a promise that every example is best-in-slot today
 - a replacement for checking current item behavior when exact details matter
 
-## Public fields to care about
+## Fields to care about
 
 | Field | Meaning |
 |---|---|
@@ -33,19 +25,19 @@ Read them as examples of function:
 | General value | what the tool contributes to a zerg |
 | How it creates value | the behavior or timing lesson the reader should learn |
 | Common mistakes | how players misuse it |
-| General vs comp-specific | whether the note belongs to broad ZvZ or one applied package |
+| General vs formation-specific | whether the note belongs to broad ZvZ or one applied formation package |
 | Patch sensitivity | whether exact current details need verification |
 
-## Source trail is not the lesson
+## Examples are lessons
 
-The public reader should mostly see the lesson:
+A weapon example should teach a behavior:
 
 - Firewall teaches area denial and path control.
 - Pierce teaches utility timing before damage.
 - Healer examples teach covering the real danger area.
 - Support examples teach anticipation and defensive layering.
 
-Detailed source status belongs in source/project pages, not under every example. Use the [Sources and Credit](../sources-credit/index.md), [Sources / Credit](../sources-credit/index.md), and [Role and Tool Library](role-tool-library.md) when you need the recovery trail.
+The weapon name is the example. The lesson is the reason it matters.
 
 ## Patch-sensitive vs stable lessons
 

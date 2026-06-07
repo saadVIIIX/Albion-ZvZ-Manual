@@ -1,11 +1,3 @@
----
-status: Public site
-audience: Public readers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-07
----
-
 # Site Map
 
 Use this page when you want the full public structure at a glance.

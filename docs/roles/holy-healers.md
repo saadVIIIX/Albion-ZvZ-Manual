@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: Healers / role leads
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Holy Healers
 
 Holy healers provide direct stabilization and burst recovery when the zerg takes sharp damage.
@@ -74,9 +66,9 @@ If not, the failure happened before the healing button was needed.
 - [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
 - [Healer Learning Path](../learning-paths/healer.md)
 
-## Burst-healer reinforcement
+## Emergency clump healing
 
-Burst healers should be understood as emergency healers for clumps and danger areas. Holy healers must understand where enemy damage is likely to land, not only react to party-frame HP after the fact.
+Burst healers are emergency healers for clumps and danger areas. Holy healers must understand where enemy damage is likely to land, not only react to party-frame HP after the fact.
 
 ## Single-target saving
 

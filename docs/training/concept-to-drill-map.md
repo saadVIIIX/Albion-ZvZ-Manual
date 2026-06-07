@@ -1,11 +1,3 @@
----
-status: Draft
-audience: Role leads / officers
-source_layer: Project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-05
----
-
 # Concept-to-Drill Map
 
 This page maps doctrine concepts to practical drills.

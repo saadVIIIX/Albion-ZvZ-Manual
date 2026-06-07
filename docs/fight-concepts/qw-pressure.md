@@ -1,11 +1,3 @@
----
-status: Review draft
-audience: DPS / all players
-source_layer: AO University / project synthesis
-patch_sensitivity: Low
-last_reviewed: 2026-06-06
----
-
 # Q/W Pressure Floor
 
 A zerg that only deals damage on major cooldowns gives the enemy too much freedom.
@@ -58,6 +50,6 @@ Track a 15-second period between engages. Count how many safe players created us
 - [Support DPS](../roles/support-dps.md)
 - [Weapon and Ability Notes](../weapon-notes/index.md)
 
-## Ranged-DPS pressure reinforcement
+## Ranged pressure between cooldowns
 
-AOU Ep. 15 reinforces that ranged DPS should not disappear between major E cooldowns. Brimstone/Fire, Longbow, and Siege-style play all gain value from Q/W pressure, angle discipline, and active space control.
+Ranged DPS should not disappear between major E cooldowns. Fire-style, bow-style, frost-style, and siege-style tools all gain value from Q/W pressure, angle discipline, and active space control when the exact weapon is used correctly.
