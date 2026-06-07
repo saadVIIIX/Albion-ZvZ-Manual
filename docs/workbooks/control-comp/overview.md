@@ -1,5 +1,5 @@
 ---
-status: Draft
+status: Public package overview
 audience: Officers / players
 source_layer: Project synthesis / workbook application
 patch_sensitivity: Medium
@@ -9,6 +9,12 @@ last_reviewed: 2026-06-05
 # Great Fire Control Formation
 
 This is the first workbook package connected to the website.
+
+
+
+<div class="ao-callout blue">
+<strong>Live ledger:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger - Control Comp Public Copy</a>. Make your own copy before editing.
+</div>
 
 ## Identity
 

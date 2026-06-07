@@ -5,8 +5,8 @@ theme:
   name: material
   features:
   - navigation.sections
-  - navigation.expand
   - navigation.indexes
+  - navigation.top
   - toc.follow
   - search.suggest
   - search.highlight
@@ -26,13 +26,6 @@ markdown_extensions:
 - attr_list
 nav:
 - Home: index.md
-- Site Map: site-map.md
-- Public Beta v3.0.4:
-  - Overview: public-beta/index.md
-  - Review Route: public-beta/review-route.md
-  - Release Notes: public-beta/release-notes.md
-  - Package Manifest: public-beta/package-manifest.md
-  - Go / No-Go Checklist: public-beta/go-no-go-checklist.md
 - Start Here:
   - Overview: start-here/index.md
   - New to ZvZ: start-here/new-to-zvz.md
@@ -115,39 +108,21 @@ nav:
   - Micro-Drills: training/micro-drills.md
   - Concept-to-Drill Map: training/concept-to-drill-map.md
   - Player Development Ladder: training/player-development-ladder.md
-- Workbooks / Tools:
+- Formation Ledger:
   - Overview: workbooks/index.md
-  - Website + Workbook Model: workbooks/website-workbook-model.md
-  - Community Template Model: workbooks/community-template-model.md
-  - Public-Copy Strategy: workbooks/public-copy-strategy.md
-  - Public Release Checklist: workbooks/public-release-checklist.md
-  - Great Fire Control Overview: workbooks/control-comp/overview.md
-  - Great Fire Control Party Structure: workbooks/control-comp/party-structure.md
-  - Great Fire Control Healer Package: workbooks/control-comp/healer-package.md
-  - Great Fire Control Support Package: workbooks/control-comp/support-package.md
+  - Great Fire Control Formation: workbooks/control-comp/overview.md
+  - Party Structure: workbooks/control-comp/party-structure.md
+  - Healer Package: workbooks/control-comp/healer-package.md
+  - Support Package: workbooks/control-comp/support-package.md
   - Package Depth Model: workbooks/package-depth-model.md
 - Applied Build Cards:
   - Overview: build-cards/index.md
   - Great Fire Control Build Cards: build-cards/control-comp/index.md
-  - Build Card Status Guide: build-cards/status-guide.md
-- Sources / Credit:
-  - Overview: sources-credit/index.md
-  - Credit and Attribution Standard: sources-credit/credit-and-attribution-standard.md
-  - Source Recovery Log: sources-credit/source-recovery-log.md
-- Publication / Review:
-  - Publication Audit: audit/index.md
-  - Publication Readiness Audit: audit/publication-readiness-audit.md
-  - Mechanics Verification Queue: audit/mechanics-verification-queue.md
+- Sources and Project Info:
+  - Sources / Credit: sources-credit/index.md
+  - Credit Standard: sources-credit/credit-and-attribution-standard.md
   - Known Limitations: review/known-limitations.md
-  - Final Trusted Review Route: review/final-trusted-review-route.md
-  - Feedback Form Template: review/feedback-form-template.md
-- Maintainers:
-  - Overview: maintainers/index.md
-  - Cleanup and Consolidation Log: maintainers/cleanup-consolidation-log.md
-  - Versioning and Storage: maintainers/versioning-storage.md
-  - Mechanics Verification: maintainers/mechanics-verification.md
-  - Publishing Roadmap: maintainers/publishing-roadmap.md
-  - Publication Go / No-Go: maintainers/publication-go-no-go.md
-  - Post-Release Maintenance: maintainers/post-release-maintenance.md
+  - Release Status: public-beta/index.md
+  - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: v3.0.4 Public Beta Naming Pass
+  version: v3.1 Public Presentation Cleanup

@@ -1,9 +1,15 @@
-Albion ZvZ Manual Preview v3.0.4 Public Beta Naming Pass
+Albion ZvZ Manual - public presentation cleanup package
 
-Open index.html in a browser to review.
+Current public names:
+- Albion ZvZ Manual
+- The Field Manual for Large-Scale Albion Warfare
+- Albion ZvZ Formation Ledger - Control Comp Public Copy
+- Great Fire Control Formation
 
-Public guide: Albion ZvZ Manual — The Field Manual for Large-Scale Albion Warfare.
-Workbook: Albion ZvZ Formation Ledger — Control Comp Public Copy.
-Current comp package: Great Fire Control Formation.
+Live manual:
+https://saadviiix.github.io/Albion-ZvZ-Manual/
 
-This preview is a simple static HTML review copy, not the final MkDocs Material experience.
+Live Formation Ledger:
+https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing
+
+This v3.1 pass focuses on public presentation: stronger visual identity, cleaner navigation, less beta/WIP language in the reader path, and the live ledger link.

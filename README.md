@@ -2,14 +2,19 @@
 
 *The Field Manual for Large-Scale Albion Warfare*
 
-This repository contains the MkDocs source for the public beta of the Albion ZvZ Manual.
+This repository contains the MkDocs source for the public Albion ZvZ Manual.
 
-## Current public names
+## Public names
 
 - **Website/manual:** Albion ZvZ Manual
 - **Subtitle:** The Field Manual for Large-Scale Albion Warfare
-- **Workbook/tooling:** Albion ZvZ Formation Ledger — Control Comp Public Copy
+- **Workbook/tooling:** Albion ZvZ Formation Ledger - Control Comp Public Copy
 - **Current comp package:** Great Fire Control Formation
+
+## Live resources
+
+- Manual: https://saadviiix.github.io/Albion-ZvZ-Manual/
+- Formation Ledger: https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing
 
 ## Publishing
 

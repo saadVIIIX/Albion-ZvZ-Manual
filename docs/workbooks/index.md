@@ -1,76 +1,61 @@
 ---
-status: Public Beta v3.0.4
-audience: Officers / project maintainers / groups
-source_layer: Workbook application + public beta strategy
+status: Public site
+audience: Officers / groups / workbook users
+source_layer: Workbook application
 patch_sensitivity: Medium
 last_reviewed: 2026-06-07
 ---
 
-# Workbooks and Tools
+# Albion ZvZ Formation Ledger
 
-The public manual teaches. The workbook runs content.
+The public manual teaches. The ledger helps groups run content.
 
-This section exists for people or groups who want copyable tools for signups, role coverage, party assignment, build libraries, and review workflows.
+The **Albion ZvZ Formation Ledger - Control Comp Public Copy** is optional tooling for signups, role coverage, party assignment, build libraries, and review workflows.
+
+<div class="ao-hero">
+<h2>Open the live ledger</h2>
+<p><strong>Albion ZvZ Formation Ledger - Control Comp Public Copy</strong></p>
+<p>This sheet is built for the <strong>Great Fire Control Formation</strong>. Use it as a copyable operating tool, not as a forced meta prescription.</p>
+<div class="ao-button-row">
+<a class="ao-button" href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open Google Sheets Ledger</a>
+<a class="ao-button ghost" href="control-comp/overview.md">Read Formation Overview</a>
+</div>
+</div>
 
 ## Important separation
 
-The **Albion ZvZ Formation Ledger** is optional tooling.
+The Formation Ledger is optional. The Albion ZvZ Manual should still be useful even if someone never opens the sheet.
 
-The public manual should be useful even if someone never opens the ledger.
+The current ledger is a flagship applied package because it has enough comp-specific structure behind it. Future comp packages should only be labeled full-depth when they have enough source material, role logic, scaling, builds, and review examples.
 
-## Current live package
+## Current package
 
-| Package | Status | Use |
+| Package | Depth | Use |
 |---|---|---|
-| [Great Fire Control Formation](control-comp/overview.md) | **Full Doctrine Package** | Albion ZvZ Formation Ledger, signups, party assignment, coverage, builds, role notes, drills |
+| [Great Fire Control Formation](control-comp/overview.md) | Full Doctrine Package | signups, party assignment, role coverage, builds, role notes, drills |
+
+## How to use the ledger
+
+1. Open the Google Sheets ledger.
+2. Use **File -> Make a copy** before editing.
+3. Add players on the **Signups** tab.
+4. Assign party and slot from the Signups tab.
+5. Let Party 1, Party 2, and dashboard views fill automatically.
+6. Use coverage and role notes to fix missing healer/support/tank structure before content.
 
 ## Package depth model
 
-Not every future package should pretend to have the same depth.
-
-Use [Workbook Package Depth Model](package-depth-model.md) to label future packages honestly:
+Not every future package should pretend to have the same depth. Use the [Workbook Package Depth Model](package-depth-model.md) to label future packages honestly:
 
 - Full Doctrine Package
 - Lite Comp Package
 - Build Sheet Only
 - Research / Placeholder
 
-## Workbook model
-
-| Page | Use |
-|---|---|
-| [Website + Workbook Model](website-workbook-model.md) | explains site/tool/archive separation |
-| [Community Template Model](community-template-model.md) | keeps the workbook public-community focused |
-| [Workbook Package Depth Model](package-depth-model.md) | defines Full / Lite / Build Sheet / Research package tiers |
-| [Workbook Public-Copy Strategy](public-copy-strategy.md) | prevents accidental private data exposure |
-| [Google Sheets Sharing Checklist](google-sheets-sharing.md) | checks public template behavior |
-| [Workbook Public Release Checklist](public-release-checklist.md) | release safety checklist |
-
-## Community-submitted packages
-
-The workbook can be used as a structure for other groups, but only if they bring enough source material.
-
-A serious submission should include:
-
-- comp purpose
-- builds
-- scaling order
-- role responsibilities
-- fight style
-- common mistakes
-- VOD lessons or examples
-- caller logic
-- weaknesses/counters
-- confidence level
-
-Without that data, the package should be labeled honestly as a Lite Package or Build Sheet Only.
-
-## Public-copy caution
-
-Before sharing workbook links publicly, verify that the workbook copy does not expose private player names, officer-only notes, admin tabs, or unfinished internal scaffolding.
-
 ## Related pages
 
+- [Great Fire Control Formation](control-comp/overview.md)
 - [Applied Build Cards](../build-cards/index.md)
 - [Weapon and Ability Notes](../weapon-notes/index.md)
-- [Public Beta v3.0.4](../public-beta/index.md)
+- [Google Sheets Sharing Checklist](google-sheets-sharing.md)
+- [Workbook Public-Copy Strategy](public-copy-strategy.md)

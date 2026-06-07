@@ -1,65 +1,55 @@
 ---
-status: Public Beta v3.0.4
-audience: Public readers / reviewers / maintainers
+status: Release status
+ audience: Public readers / maintainers
 source_layer: Project synthesis
 patch_sensitivity: Low
 last_reviewed: 2026-06-07
 ---
 
-# Public Beta v3.0.4
+# Release Status
 
-This is the public beta clarity-fix package for the Albion ZvZ Manual.
+The Albion ZvZ Manual is live and publicly readable. It is still in an active improvement cycle, but the main reader path is intended to function as a real manual rather than an internal draft.
 
-It keeps the v3.0 public beta structure and applies review feedback about purpose, source framing, movement/positioning clarity, and weapon-example wording.
-
-## What Public Beta v3.0.4 includes
+## Current public package
 
 | Area | Status |
 |---|---|
-| Public manual structure | public beta ready |
-| Purpose-first homepage framing | updated in v3.0.3 |
-| Start Here path | public beta ready |
-| Role guides | public beta ready, review welcome |
-| Fight concepts | public beta ready, Movement and Positioning clarified |
-| Weapon and Ability Notes | examples framed as function teaching, exact details still patch-sensitive |
-| Training / VOD Review | public beta ready |
-| Sources / Credit | clear credit, less overwhelming reader path |
-| Workbooks and Tools | optional, public-copy caution still active |
-| Great Fire Control Formation | flagship applied workbook package, not universal doctrine |
-| Item icons/build visuals | not final |
-| Public workbook copy | pending clean-copy pass |
+| Website/manual | Live on GitHub Pages |
+| Public name | Albion ZvZ Manual |
+| Subtitle | The Field Manual for Large-Scale Albion Warfare |
+| Formation Ledger | Live Google Sheets public copy |
+| Current comp package | Great Fire Control Formation |
+| Doctrine expansion | Paused until there is a clear gap or post-release source pass |
 
-## Review priority
+## Live links
 
-Do not try to review every page at once.
+- [Albion ZvZ Formation Ledger - Control Comp Public Copy](https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing)
+- [Known Limitations](../review/known-limitations.md)
+- [Sources / Credit](../sources-credit/index.md)
 
-Review these first:
+## Current rule
 
-1. Home
-2. Start Here
-3. Pick Your First Role
-4. Role Guides overview
-5. DPS Overview
-6. Holy Healers and Nature Healers
-7. Supports
-8. Movement and Positioning
-9. Defensive Layering
-10. Weapon and Ability Notes overview
-11. Role and Tool Library
-12. Sources and Credit
-13. Known Limitations
-14. Workbooks and Tools overview
+Public updates should focus on publishability and reader experience:
 
-## Public beta rule
+- clearer navigation
+- cleaner public wording
+- broken-link fixes
+- layout and presentation improvements
+- workbook usability issues
+- mechanics verification when exact values matter
 
-Fix blockers and high-value wording issues.
+Avoid reopening large transcript/source expansion until the public site and ledger are stable.
 
-Do not open new transcript/source expansion or new comp packages unless the issue blocks public beta quality.
+## What still belongs later
+
+- deeper source integration from remaining AOU/transcript batches
+- final item icon/build-card visuals
+- broader comp-package ecosystem
+- custom organization URL if the project moves to a GitHub organization later
 
 ## Related pages
 
-- [Public Beta Review Route](review-route.md)
+- [Known Limitations](../review/known-limitations.md)
 - [Release Notes](release-notes.md)
 - [Package Manifest](package-manifest.md)
 - [Go / No-Go Checklist](go-no-go-checklist.md)
-- [Known Limitations](../review/known-limitations.md)

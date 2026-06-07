@@ -36,9 +36,7 @@ Read them as examples of function:
 | General vs comp-specific | whether the note belongs to broad ZvZ or one applied package |
 | Patch sensitivity | whether exact current details need verification |
 
-## Source confidence is not the lesson
-
-Earlier beta drafts repeated source-confidence labels inside the public weapon notes. That was useful for internal recovery, but too heavy for normal readers.
+## Source trail is not the lesson
 
 The public reader should mostly see the lesson:
 
@@ -47,7 +45,7 @@ The public reader should mostly see the lesson:
 - Healer examples teach covering the real danger area.
 - Support examples teach anticipation and defensive layering.
 
-Detailed source status belongs in source/maintainer pages, not under every example. Use the [Sources and Credit](../sources-credit/index.md), [Source Recovery Log](../sources-credit/source-recovery-log.md), and [Role and Tool Library](role-tool-library.md) when you need the recovery trail.
+Detailed source status belongs in source/project pages, not under every example. Use the [Sources and Credit](../sources-credit/index.md), [Source Recovery Log](../sources-credit/source-recovery-log.md), and [Role and Tool Library](role-tool-library.md) when you need the recovery trail.
 
 ## Patch-sensitive vs stable lessons
 
